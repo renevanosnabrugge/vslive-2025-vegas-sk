@@ -1,0 +1,54 @@
+The partner must provide evidence for all four (4) of the following scenarios, across a
+minimum of two (2) unique customer projects completed within the past twelve (12)
+months. Each customer case does not have to include all four (4) scenarios, a single project
+may satisfy multiple scenarios.
+1. Migration of Infra (Windows Server) to Azure
+2. Migration of Linux-based applications to Azure
+3. Migration of Microsoft SQL databases to Azure (can include Arc-enabled SQL
+Managed Instance (MI)*
+4. Migration of MySQL, PostgreSQL, MariaDB or MongoDB database to Azure *
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud 
+Oracle migration to PostgreSQL, Cosmo DB or Azure SQL will qualify in scenarios three (3) &
+four (4). 
+Required Evidence: The partner must provide evidence for all four (4) of the above following
+scenarios, across a minimum of two (2) unique customer projects completed within the past
+twelve (12) months. Each customer case does not have to include all four (4) scenarios, a single
+project may satisfy multiple scenarios. 
+Assessments may be done manually or through an industry-accepted assessment tool.
+Accepted Documentation: Output from Assessment Tools such as: Azure Migrate, Movere, or
+other similar Third-party Tooling Reports, Assessment Checklists, Templates, Questionnaires and
+Project Plans.21 
+3.0 Design
+The partner has robust methodologies for designing the workload.
+Requirement
+3.1 Solution Design including Azure Landing Zone 
+The partner must provide relevant solution design documents that show a consistent approach
+to addressing customer requirements that were captured in the Assessment phase.
+Required Evidence:
+The partner must provide solution designs that show a consistent approach to addressing customer
+requirements that were captured from the Assessment phase.
+The partner must provide evidence for two (2) of the four (4) following solution design
+scenarios across a minimum of two (2) unique customer projects completed within the past
+twelve (12) months. Each customer case does not have to include all scenarios, a single project
+may satisfy multiple scenarios.
+1. Migration of Windows-based applications to Azure
+2. Migration of Linux-based applications to Azure
+3. Migration of Microsoft SQL databases to Azure (can include Arc-enabled SQL Managed
+Instance (MI)*
+4. Migration of MySQL, PostgreSQL, MariaDB or MongoDB database to Azure * 
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud 
+Oracle migration to PostgreSQL, Cosmo DB or Azure SQL will qualify in scenarios three (3) & four
+(4). 
+The solution design must show all of the following:
+• A migration design or strategy that outlines which applications, databases, or
+database auxiliary components (reporting service, integration service) are in scope
+for the migration.
+• An outline of the migration method (rehost, refactor, or replatform) to be used for the
+application, database, database auxiliary components, and so on. It should show how the
+design addresses the workload dependencies that were demonstrated in the assessment, with
+appropriate mitigations.
+• The migration risk assessment and risk mitigation. The high-level migration sequence and
+estimated time to finish the migration. The validation of the successful migration completion. Azure landing zone (ALZ): The environment that supports the referenced customer
+deployments should address each of the design areas below required below. If an item is not
+relevant, the partner must document the customer’s decision to deviate from applying best
+practices.22 

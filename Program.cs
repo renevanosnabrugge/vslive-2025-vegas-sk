@@ -18,7 +18,7 @@ string apiKey = config.GetSection("OpenAI").GetValue<string>("ApiKey") ?? throw 
 //1. Basics of SK
 //await new BasicsOfSK().SimplestPromptLoop(deploymentName,endpoint,apiKey);
 //await new BasicsOfSK().SimplestPromptLoopUsingConfig(deploymentName, endpoint, apiKey);
-//await new BasicsOfSK().AddingMessageHistory(deploymentName,endpoint,apiKey);
+await new BasicsOfSK().AddingMessageHistory(deploymentName,endpoint,apiKey);
 //await new BasicsOfSK().AddingMessageHistoryWithLogging(deploymentName, endpoint, apiKey);
 
 //2. Configuration
@@ -34,8 +34,8 @@ string apiKey = config.GetSection("OpenAI").GetValue<string>("ApiKey") ?? throw 
 //await new UsingPlugins().ChatWithPluginsAndConsentFilter(deploymentName,endpoint,apiKey);
 
 
-string dal_e_endpoint = config.GetSection("OpenAI").GetValue<string>("DalE-EndPoint") ?? throw new ArgumentException("OpenAI EndPoint not set");
-string dal_e_apiKey = config.GetSection("OpenAI").GetValue<string>("DalE-ApiKey") ?? throw new ArgumentException("OpenAIKey not set");
+//string dal_e_endpoint = config.GetSection("OpenAI").GetValue<string>("DalE-EndPoint") ?? throw new ArgumentException("OpenAI EndPoint not set");
+//string dal_e_apiKey = config.GetSection("OpenAI").GetValue<string>("DalE-ApiKey") ?? throw new ArgumentException("OpenAIKey not set");
 //4. Image Generation
 //await new ImageGeneration().GenerateBasicImage("dall-e-3", dal_e_endpoint, dal_e_apiKey );
 
@@ -47,7 +47,7 @@ string dal_e_apiKey = config.GetSection("OpenAI").GetValue<string>("DalE-ApiKey"
 //string memory_ip = config.GetSection("SM").GetValue<string>("ip") ?? throw new ArgumentException("Semeantic Memory http location not set");
 
 //6. Memory (RAG)
-await new UsingMemory().ChatWithMemory(deploymentName, endpoint, apiKey);
+//await new UsingMemory().ChatWithMemory(deploymentName, endpoint, apiKey);
 
 
 

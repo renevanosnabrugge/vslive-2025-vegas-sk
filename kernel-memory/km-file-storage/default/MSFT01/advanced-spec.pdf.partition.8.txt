@@ -1,0 +1,77 @@
+The partner must provide evidence of their capability for process and approach to
+planning and completion with examples of two (2) unique customer projects that were
+completed in the past twelve (12) months.
+Acceptable evidence will include at least one (1) of the following for each customer:
+• Azure DevOps backlog OR
+• Tools for project planning and tracking used by the partner OR
+• Cloud Adoption Plan Generator output using the Azure Cloud Adoption Framework  
+2.2 Plan for Skilling
+When customers adopt the cloud, their existing technical staff will need a variety of new
+skills to aid in making technical decisions and to support the new cloud implementations.
+To ensure the long- term success of the customer, the partner must document a skilling
+plan to prepare the customer’s technical staff.
+The Partner must document a list of key customer technical roles expected to require
+new skills such as, but not limited to, IT Admins, IT Governance, IT Operations, and
+IT Security.
+The documentation must include:
+1. A description of the new skills the technical roles will need to achieve to
+successfully manage the new environment.
+2. Resources the customer can leverage when training their technical employees
+such as Microsoft learning paths, technical certifications, or other comparable
+resources. 
+For guidance, review Microsoft docs Azure Cloud Adoption Framework How to build
+a skilling readiness plan.
+Required evidence:
+The partner must provide a skilling plan for at least two (2) unique customer
+engagements completed within the last twelve (12) months. The two (2) skilling plans
+documented can include a customer-facing presentation, planning documents, post
+deployment documentation or similar plan documentation.  
+3.0 Environment Readiness and Azure Landing Zone
+The partner must be able to demonstrate that the following design areas are addressed through their
+approach to landing zone implementation.
+Requirement17 
+3.1 Repeatable Deployment
+The partner must demonstrate adherence to Azure landing zone (ALZ) design areas through a
+repeatable deployment. The deployment should configure, at minimum, the following
+identity, network, and resource organization attributes:
+• Identity
+o Adoption of identity management solutions, such as Microsoft Entra ID
+(formerly Azure Active Directory) or equivalent
+• Networking architecture design (topology)
+o Define an Azure network topology - Cloud Adoption Framework | Microsoft Docs
+o Application of hybrid architectures that use Azure ExpressRoute, VPN
+Gateway, or equivalent services for connecting local datacenters to
+Azure
+• Resource organization
+o Implementation of tagging and naming standards during the project 
+The partner must demonstrate which of the following approaches they used when they
+deployed Azure landing zones for two (2) unique customers:
+1. Start small and expand: Azure landing zone does not deploy
+governance or operations configurations, which are addressed later
+in the implementation.
+2. Full Azure landing zone (ALZ) conceptual architecture: Azure landing zones
+implement standard approach to the configuration of governance and
+operations tools prior to implementation.
+3. Alternative approach: If the partner follows a proprietary approach or a mixture
+of the two (2) approaches above, the partner must clearly articulate their
+approach to environment configuration.
+4. Brownfield scenario: The partner’s customer has a landing zone that does not
+follow best practices, and an update is required to follow best practices in the
+Cloud Adoption Framework.
+Required evidence:
+The partner must provide evidence of a repeatable deployment they used to create landing
+zones, aligned to the Azure landing zone (ALZ) conceptual architecture, deployed to two (2)
+unique customer environments using Bicep or Terraform modules, and ARM (AZURE Resource
+Manager) templates to automatically deploy the environment configuration. 
+If a customer deviates from the specified architecture, the partner must demonstrate the
+customer requirements to justify the deviation. 
+The provided template can be pulled directly from the Cloud Adoption Framework Landing zone
+implementation options, or it can be based on the partner’s own IP (Intellectual Property). 
+In either case, the output evidence must demonstrate the configuration of the identity, network,18 
+and resource organization, as described earlier above. 
+Special Evidence Note:
+For Analytics on Azure specialization deployments and Data Warehouse Migration to Azure specialization deployments only: If no Identity or Networking components are deployed in the
+Azure Landing Zone, a documented focus on Resource organization attributes is sufficient to
+pass this control.
+4.0 Governance
+The partner must demonstrate their customer’s role in governing cloud-based solutions and the Azure

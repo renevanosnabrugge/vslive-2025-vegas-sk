@@ -1,0 +1,52 @@
+Control 1.1 Certifications. The control was clarified to convey that the partner must be a member of either
+the Red Hat Business Partner Program or the SUSE One Partner Program, or they must have two (2) full-time
+employees who have at least one (1) of the qualifying certifications verified by certifying agencies. 
+August 28, 2023
+The Microsoft Cloud Partner Program changed its name to the Microsoft AI Cloud Partner Program,
+effective immediately. 
+Module B - June 5, 2023
+V1.2 Infrastructure and Database Migration to Microsoft Azure Specialization checklist is published.
+This checklist version is required for audits during July 5, 2023- Jan 2, 2024
+Control 3.1 Solution Design has added security products such as Azure security services, Microsoft 365 security,
+and Microsoft Defender for Cloud as evidence for this control.
+Module B - Feb 17, 2023
+V1.1 in Control 1.1 adds a new verification source for third party certifications; Verify a Red Hat Certified
+Professional | redhat.com can be used for RedHat validation. 
+Module B – Jan 9, 2023
+Effective Jan 9, 2023, partners with active enrollments for either or both of the Linux and Open-Source
+Database Migration to Microsoft Azure Specialization or the Windows Server and SQL Server Migration
+to Microsoft Azure Specialization are auto enrolled in (or “grandfathered in”) to the Infra and
+Database Migration to Microsoft Azure Specialization. Upon a partner’s respective anniversary dates, a
+partner will need to meet the requirements of the new Infra and Database Migration to Microsoft Azure
+Specialization, including the specialization’s audit checklist. For more information on this, please visit Partner
+Center.
+Module B - Dec 9, 2022
+The V1.0 PREVIEW of Infra and Database Migration to Microsoft Azure Specialization was made available
+for partners. It replaced several legacy Azure specializations:
+As of Jan 9, 2023, the new Infra and Database Migration to Microsoft Azure Specialization and its audit checklist
+replaces both the V2.1 Windows Server and SQL Server Migration to Microsoft Azure Specialization audit
+checklist and the V2.1 Linux and Open-Source Database Migration to Microsoft Azure Specialization audit
+checklist.
+Module B - Oct 3, 2022
+Microsoft retired partner Gold Cloud competency, the aligned Solutions Partner designation is now required.
+For this specialization, your organization must have an active Solutions Partner for Data & AI (Azure) or a Solutions
+Partner for Infrastructure (Azure) designation.4 
+Module A - July1, 2022
+Checklist updates published May 2, 2022, in preview for Module A checklist are now required. In Control 2.2,
+a new required Skilling Plan has been added to the checklist and is now required.
+Module B - May 2, 2022
+• Guidance for the definition of Proof of Concept and Pilots added to the FAQ.
+• Preview updates to Module A were made available, these are required July 1, 2022 
+Jan 1, 2022
+Guidance and FAQ Updates5 
+Contents
+Infra and DB Migration to Microsoft Azure Specialization Program Overview ..................................................... 5
+How to apply ......................................................................................................................................................................... 6
+NDAs for the audit ................................................................................................................................................................ 7 Payment terms and conditions ......................................................................................................................................... 7
+Audit blueprint ...................................................................................................................................................................... 7
+Audit roles ............................................................................................................................................................................... 8
+Audit Process: High-level overview .................................................................................................................................. 8
+Audit Process: Details .......................................................................................................................................................... 9
+Audit preparation best practices and resources .......................................................................................................... 11
+Audit checklists .................................................................................................................................................................... 12
+Partner FAQ ..........................................................................................................................................................................366 

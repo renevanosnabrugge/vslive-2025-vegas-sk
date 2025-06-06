@@ -1,0 +1,59 @@
+B. Show experience with third-party tools that integrate with Azure Migrate by demonstrating a
+customer project where assessment data is available from Azure Migrate or available to them
+offline and they perform the migration by using third-party tooling.
+C. Show experience with all other third-party tools by referencing the tools used in a project plan
+for successfully migrating a customer to Azure, or by providing a spreadsheet with output from
+and snapshots of results in an output file from the tools that they used.
+Tools may include but are not limited to:
+• CloudSphere
+• Carbonite
+• PlateSpin
+• CloudEndure
+• River Meadow
+• Cloudamize
+• Zerto
+• StratoZone26 
+4.4 Automated Deployment and Provisioning Tools
+The partner must demonstrate specific products, tools, or scripts that they used for automated
+provisioning and deprovisioning of infrastructure and database migrations, including tools for
+continuous integration and continuous delivery (CI/CD). 
+Required Evidence:
+Include Demonstrations of Products, Tools, or Scripts used for:
+• Automated deployment, including creation of workload deployment templates.
+• Cloud service provisioning and deprovisioning, including viewing of service template,
+packages, or runbooks that were used in the deployment of customers’ Azure
+environments.
+• Automation of routine operations, or automated scale-out. 
+The partner must provide evidence for all four (4) of the Infra and Database Migration
+deployment and provisioning scenarios across a minimum of two (2) unique customer
+projects completed within the past twelve (12) months. Each customer case does not have to
+include all four (4) scenarios, a single project may satisfy multiple scenarios.27 
+5.0 Review and Release for Operations
+The partner has robust methodologies for transitioning the workload.
+Requirement
+5.1 Service Validation and Testing
+The partner must validate the deployment, including:
+• Their documented process and approach to testing and evaluating the performance
+of all applications against customers’ expectations and Azure best practices.
+• Their documented process and approach to evaluating and improving architectural
+best practices to remediate issues with migrated platforms or workloads that do not
+meet performance or cost expectations.
+Evidence can be the same as the projects presented in earlier controls as long as they
+demonstrate the required control definition. 
+Required Evidence: The partner must provide evidence for all four (4) of the following service
+validation and testing scenarios, including validation and performance evaluation across a
+minimum of two (2) unique customer projects completed within the past twelve (12) months. 
+Each customer case does not have to include all four (4) scenarios, a single project may satisfy
+multiple scenarios. The documentation must indicate that the implemented service validation
+solution meets customer expectations, and it must include a sign-off from each customer.
+1. Migration of Infra (Windows Server) to Azure
+2. Migration of Linux-based applications to Azure
+3. Migration of Microsoft SQL to Azure (including Arc-enabled SQL MI) *
+4. Migration of MySQL, PostgreSQL, MariaDB or MongoDB database to Azure* 
+• Oracle migration to PostgreSQL, Cosmo DB or Azure SQL will qualify in scenarios three (3)
+& four (4).
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud.28 5.2 Post-deploymentDocumentation
+The partner must provide post-deployment operational documentation to show that their
+customers are successfully using the new service on Azure. It must:
+• Demonstrate how the partner’s documents, decisions, architectural designs, and
+procedures were implemented.

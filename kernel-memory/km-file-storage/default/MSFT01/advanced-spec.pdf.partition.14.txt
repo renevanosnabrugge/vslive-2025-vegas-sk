@@ -1,0 +1,72 @@
+5.2 Post-deploymentDocumentation
+The partner must provide post-deployment operational documentation to show that their
+customers are successfully using the new service on Azure. It must:
+• Demonstrate how the partner’s documents, decisions, architectural designs, and
+procedures were implemented.
+• Demonstrate standard operating procedures for the business-as- usual operations team
+that describe “how to” scenarios.
+Required Evidence:
+The partner must provide operational evidence for all four (4) of the deployment scenarios
+across a minimum of two (2) unique customer projects completed within the past twelve (12)
+months. Each customer case does not have to include all four (4) scenarios, a single project
+may satisfy multiple scenarios. 
+The documentation must indicate that the implemented service validation solution meets
+customer expectations, and it must include a sign-off from each customer.
+1. Migration of Infra (Windows Server) to Azure
+2. Migration of Linux-based applications to Azure
+3. Migration of Microsoft SQL to Azure (including Arc-enabled SQL MI) *
+4. Migration of MySQL, PostgreSQL, MariaDB or MongoDB database to Azure*
+• Oracle migration to PostgreSQL, Cosmo DB or Azure SQL will qualify in scenarios three (3)
+& four (4).
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud. 
+For pre-qualified partners only, Module B: Alternate audit using Windows and SQL for evidence with
+renewing partners. Microsoft will approve you for this checklist, using telemetry and analysis. This is
+not a self-nomination. Reach out to Azure Partner Specializations azureAS@microsoft.com  to confirm
+your qualification. 
+Alternate Pathway Audit: Infra & Database Migration to Azure checklist 
+1.0 Assess
+The partner must have a consistent approach for assessing customer requirements for the workload.
+Requirement29 
+1.1 Workload Assessment
+The partner must demonstrate how they assess each workload prior to migration to
+ensure that adequate pre-migration or pre-deployment planning and sizing were
+performed.
+The assessment must include mapping that shows the dependencies upstream from the resources
+that will be migrated. It must also show:
+• The infrastructure, data volumes and database sizes to be migrated.
+• The migration timeline and approach.
+• The migration risk assessment.
+• Backup and disaster recovery for existing workloads.
+• Licensing and cost management requirements.
+• Documentation of the customer’s existing identity implementation on Azure, gaps
+identification, and best practices recommendations.
+The partner must provide evidence for both of the scenarios below, across a minimum of two (2) unique
+customer migration projects, completed within the last twelve (12) months. 
+1. Migration of Windows Server-based applications to Azure
+2. Migration of Microsoft SQL databases to Azure (can include Arc-enabled SQL Managed Instance
+(MI) *
+Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud 
+Required Evidence: The partner should provide relevant design documents showing that the preceding
+items were reviewed for at least two (2) unique customers with Windows Server Applications and
+Microsoft SQL Server migration projects, completed within the past twelve (12) months. The partner
+must show that all assessment details were considered for these customers.
+Assessments may be done manually or through an industry-accepted assessment tool.
+Accepted Documentation: Output from Assessment Tools such as: Azure Migrate, Movere, or other
+similar Third-party Tooling Reports, Assessment Checklists, Templates, Questionnaires and Project
+Plans.
+2.0 Design
+The partner has robust methodologies for designing the workload.
+Requirement
+2.1 Solution Design including Azure Landing Zone
+The partner must provide solution designs that show a consistent approach to addressing customer
+requirements that were captured from the Assessment phase.
+The partner must provide evidence for both of the following scenarios across a minimum of two
+(2) unique customer projects completed within the last twelve (12) months:
+• Migration of Windows Server-based applications to Azure
+• Migration of Microsoft SQL databases to Azure (can include Arc-enabled SQL Managed
+Instance (MI) *
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud.30 
+The partner must provide relevant solution design documents that show a consistent approach to addressing customer requirements that were captured in the Assessment phase. 
+The solution design must show all of the following:
+• A migration design or strategy that outlines which applications, databases, or
+database auxiliary components (reporting service, integration service) are in scope

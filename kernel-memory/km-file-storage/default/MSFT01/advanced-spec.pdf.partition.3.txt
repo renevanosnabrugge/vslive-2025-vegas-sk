@@ -1,0 +1,68 @@
+The audit checklist will be updated to stay current with technology and market changes, and the
+audit is conducted by an independent, third-party auditor.
+The following is included in the audit blueprint:
+1. Audit Roles
+2. Audit Process: High level overview
+3. Audit Process: Details
+4. Audit Best Practices and Resources8 
+Audit roles
+Role of the auditor 
+The auditor reviews submitted evidence and objectively assesses whether the evidence provided by the partner
+satisfies the audit checklist requirements. The auditor selects and evaluates evidence, based on samples of the
+information available from live systems. The appropriate use of such sampling is closely related to the confidence
+that can be placed in the audit conclusions. All ISSI auditors are under a non-disclosure agreement (NDA) with
+Microsoft. Auditors will also comply with requests from partners to sign a direct NDA. 
+Role of the partner 
+The partner must provide objective evidence that satisfies the auditor for all checklist items. It is the responsibility of
+the partner to have reviewed all check-list items prior to the audit, to have collected all necessary documentation and
+evidence, and to have ensured that the right subject matter experts are available to discuss and show systems, as
+appropriate. All audit evidence must be reproducible and verifiable.
+Role of the Microsoft Partner Development Manager 
+For partners that have an assigned Microsoft Partner Development Manager (PDM), the PDM is responsible for ensuring
+that the partner fully understands the requirements prior to applying for the audit. The PDM may attend the optional
+consulting engagements that ISSI offers, but the PDM and other Microsoft FTEs may not attend the audit. 
+Audit Process: High-level overview 
+Step Action Responsibility
+1 Review: Specialization requirements in Partner Center. Review audit
+checklists in the specialization and begin to prepare the necessary
+evidence with personnel for an evidence-based audit. Recommended:
+Before you apply, review the specific audit checklist thoroughly and
+confirm SME personnel required for the audit date.
+Partner
+2 Meet the prerequisites and apply for the audit: In the initial
+application phase, applications are submitted in two (2) stages: 
+1. Prerequisite requirements (see Partner Center for details)
+2. Audit
+Do not start the application process unless you are ready to undertake
+the audit. Assess your firm’s ability to complete the audit, including
+considerations for readiness, employee availability, and holidays.
+Partner
+3 Validate: The partner meets all requirements prior to audit. Microsoft 
+Confirmed by Microsoft: Microsoft confirms with the third-party audit
+company that the partner is eligible for audit.
+Microsoft
+4 
+5 Schedule with partner: The auditor will schedule within two (2) business
+days.
+Auditor (with
+partner)9 
+6 Conduct the audit: Within thirty (30) calendar days of the approval for
+audit.
+Auditor
+7 Provide a Gap Report: If applicable, to the partner within two (2)
+business days of the completed audit, listing any Open Action Items. *
+Auditor
+8 Acknowledge Gap Report receipt and schedule meeting: Within two
+(2) business days of receiving the Gap Report, the partner acknowledges
+receipt of the report and schedules a Gap Review Meeting. Partners can
+begin immediate remediation of open items.
+Partner
+9 Complete the meeting: Within fifteen (15) calendar days of receiving the Gap Report, the partner schedules and completes the Gap Review
+Meeting with the auditor to provide evidence and address any Open
+Action Items. *
+Auditor (with
+partner)
+10 Issue Final Report: To the partner within five (5) business days. Notify
+Microsoft of audit Pass or No Pass result.
+Auditor
+11 Notify partner: About program status within two (2) business days. Microsoft

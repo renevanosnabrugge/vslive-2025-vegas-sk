@@ -1,0 +1,91 @@
+specialization deployments only: If no Identity or Networking components are deployed in the
+Azure Landing Zone, a documented focus on Resource organization attributes is sufficient to
+pass this control.
+4.0 Governance
+The partner must demonstrate their customer’s role in governing cloud-based solutions and the Azure
+tools they use to facilitate any governance requirements their customer might have today or in the
+future.
+Requirement
+4.1 Governance Tooling
+The partner must demonstrate the ability to deploy the required governance tools for two (2)
+unique customer projects.
+Required evidence:
+The partner must demonstrate the use of Azure Policy to provide controls to govern the
+environment for two (2) unique customers with Azure projects that were completed in the
+past twelve (12) months. See governance tools for templates.
+5.0 Manage
+The partner must demonstrate that they have set up their customers for operational success after the
+deployment is completed. All partners have a role in setting up operations management, even if they do
+not provide long-term managed services.
+Requirement
+5.1 Operations Management Tooling
+The partner must demonstrate the use of Azure products or equivalent to help their
+customer and/or managed service provider operate the environment after deployment.
+Required evidence:
+The partner must demonstrate the deployment of at least one (1) of the following Azure
+products or third-party equivalents: Azure Monitor, Azure Automation, or Azure Backup/Site
+Recovery, for two (2) unique customers with projects that were completed in the past twelve
+(12) months. 
+Special Evidence Note:
+For Analytics on Azure specialization deployments and Data Warehouse Migration to Azure
+specialization deployments only: If no Operations Management Tooling is deployed, this control
+may be skipped.19 
+Module B: Infrastructure and Database Migration to Microsoft Azure
+Specialization 
+1.0 Third-party Certifications required
+The partner’s resources are highly knowledgeable in open-source technologies.
+Requirement
+1.1 Certification required for Infra and Database Migration to Azure standard pathway
+The partner must be a member of either the Red Hat Business Partner Program
+OR the SUSE One Partner Program
+OR they must have two (2) full-time employees who each have one (1) of the following
+certifications:
+• Linux Foundation Certified Sys Admin
+• Linux Foundation Certified Engineer
+• LPIC-1 Certified Linux Administrator
+• LPIC-2 Certified Linux Engineer
+• Linux Professional Institute DevOps Tools Engineer
+• PostgreSQL Professional Certification (V13 until Nov. 2025)
+• PostgreSQL Advanced v16 Certification V2
+• RedHat Certified System Administrator (RHCSA)
+• RedHat Certified Engineer (RHCE)
+• Red Hat Certified Architect (RHCA)
+• SUSE Enterprise Architect (SEA)
+• SUSE Certified Engineer (SCE)
+• SUSE Certified Administrator (SCA& SCA+)
+• EDB Professional Certification 
+Required Evidence:
+Certifications must be verified through one (1) of the following below or show that the partner
+is listed as a partner in the Red Hat Partner Program Directory or the SUSE One Partner
+directory. If the partner is not listed in the Red Hat or SUSE Program directory, two (2) FTEs
+must verify one of the above certifications by:
+• The Linux Foundation
+• Linux Professional Institute (LPI)
+• Verify a RedHat Certified Professional | redhat.com
+• Red Hat CCSP Program 
+• Provide the individual’s profile badge as a PostgreSQL Professional on the
+individual’s LinkedIn or other social media pages with this competency or
+certification.
+• The partner must also provide evidence that the certified personnel are currently full-
+time employees.20 
+2.0 Assess
+The partner must have a consistent approach for assessing customer requirements for the workload.
+Requirements
+2.1 Workload Assessment
+The partner must demonstrate how they assess each workload prior to migration to
+ensure that adequate pre-migration or pre-deployment planning and sizing were
+performed.
+The assessment must include mapping that shows the dependencies upstream from the
+resources that will be migrated. It must also show:
+• The infrastructure, data volumes and database sizes to be migrated.
+• The migration timeline and approach.
+• The migration risk assessment.
+• Backup and disaster recovery for existing workloads.
+• Licensing and cost management requirements.
+• Documentation of the customer’s existing identity implementation on Azure, gaps
+identification, and best practices recommendations. The partner must provide evidence for all four (4) of the following scenarios, across a
+minimum of two (2) unique customer projects completed within the past twelve (12)
+months. Each customer case does not have to include all four (4) scenarios, a single project
+may satisfy multiple scenarios.
+1. Migration of Infra (Windows Server) to Azure
+2. Migration of Linux-based applications to Azure

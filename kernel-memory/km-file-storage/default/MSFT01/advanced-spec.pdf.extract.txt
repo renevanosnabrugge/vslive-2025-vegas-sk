@@ -1,0 +1,1085 @@
+2 
+Infrastructure and Database Migration to Microsoft Azure
+Specialization 
+Program  guide, audit checklist, and FAQ 
+V1.5 
+Valid August 12 – December 31, 20242 
+Program updates and announcements 
+Module B – June 12, 2024
+The V1.5 checklist is required August 12, 2024. The following are control changes:
+• Control 1.1, Certifications: Partners holding the PostgreSQL Professional Certification (V13) will be able
+to meet this control evidence until Nov 2025, when Microsoft will no longer accept this certification.
+This is replaced by PostgreSQL Advanced v16 Certification V2.
+• Control 5.2 Post Deployment Documentation has updated evidence requirements for clarity.
+• Partners must continue to check with Azure Partner Specializations <azureAS@microsoft.com> to
+qualify for the alternate pathway checklist.
+Module A – June 12, 2024
+The new Module A checklist is available for preview and will be required August 12, 2024.
+These are the changes made to the controls:
+• Control 1.1 Cloud Adoption Business Strategy now refers to FinOps rather than Economics and has provided an
+updated template link for a FinOps Assessment
+• Control 2.1 Cloud Adoption Plan has provided updated evidence clarification
+• Control 3.1 Repeatable Deployment has provided updated control clarification and provided updated
+links to templates mentioned
+• Control 3.1 Repeatable Deployment – A special Evidence Note for Analytics on Azure specialization
+deployments and Data Warehouse Migration to Azure specialization deployments only. If no Identity
+or Networking components are deployed in the Azure Landing Zone, a documented focus on Resource
+organization attributes is sufficient to pass this control
+• Control 4.1 Governance Tooling has provided an updated link to current Governance tools
+• Control 5.1 Operations Management Tooling for Analytics on Azure specialization deployments and Data
+Warehouse Migration to Azure specialization deployments only: If no Operations Management Tooling is
+deployed, this control may be skipped
+Please note the price schedule July 1, 2024
+Module B – Mar 13, 2024
+The V1.4 checklist is released. For qualified, renewing partners only, the checklist has been updated to
+include an alternate evidence path in addition to the core audit, that includes Windows and SQL.
+Microsoft will alert you if you qualify for this checklist version, this is not a self-nomination process.
+• Both checklists now require 2 unique customers for demonstrated evidence. 
+Module B – Jan 1, 2024
+The V1.3 checklist is now published and required. Changes from V1.21 include Controls 2.1, 3.1, 3.2,
+4.4, 5.1, and 5.2. In these:
+• Oracle can be used in migration scenarios three (3) and four (4) for the listed controls as the
+“source” database and evidence of the partner’s ability to migrate a customer to the Azure DB
+platform. Oracle migration to PostgreSQL, Cosmo DB or Azure SQL will qualify for these scenarios.3 
+Module B – Dec 1, 2023
+The V1.3 Infra and DB Migration to Azure checklist was made available for partners in preview. Two (2)
+customer projects rather than three (3) are now required. All four (4) specific migration scenarios must be
+demonstrated. This will be required Jan 1, 2024. 
+Module A – Oct 1, 2023
+Azure Active Directory has been renamed Microsoft Entra ID 
+Module B - October 24, 2023
+Control 1.1 Certifications. The control was clarified to convey that the partner must be a member of either
+the Red Hat Business Partner Program or the SUSE One Partner Program, or they must have two (2) full-time
+employees who have at least one (1) of the qualifying certifications verified by certifying agencies. 
+August 28, 2023
+The Microsoft Cloud Partner Program changed its name to the Microsoft AI Cloud Partner Program,
+effective immediately. 
+Module B - June 5, 2023
+V1.2 Infrastructure and Database Migration to Microsoft Azure Specialization checklist is published.
+This checklist version is required for audits during July 5, 2023- Jan 2, 2024
+Control 3.1 Solution Design has added security products such as Azure security services, Microsoft 365 security,
+and Microsoft Defender for Cloud as evidence for this control.
+Module B - Feb 17, 2023
+V1.1 in Control 1.1 adds a new verification source for third party certifications; Verify a Red Hat Certified
+Professional | redhat.com can be used for RedHat validation. 
+Module B – Jan 9, 2023
+Effective Jan 9, 2023, partners with active enrollments for either or both of the Linux and Open-Source
+Database Migration to Microsoft Azure Specialization or the Windows Server and SQL Server Migration
+to Microsoft Azure Specialization are auto enrolled in (or “grandfathered in”) to the Infra and
+Database Migration to Microsoft Azure Specialization. Upon a partner’s respective anniversary dates, a
+partner will need to meet the requirements of the new Infra and Database Migration to Microsoft Azure
+Specialization, including the specialization’s audit checklist. For more information on this, please visit Partner
+Center.
+Module B - Dec 9, 2022
+The V1.0 PREVIEW of Infra and Database Migration to Microsoft Azure Specialization was made available
+for partners. It replaced several legacy Azure specializations:
+As of Jan 9, 2023, the new Infra and Database Migration to Microsoft Azure Specialization and its audit checklist
+replaces both the V2.1 Windows Server and SQL Server Migration to Microsoft Azure Specialization audit
+checklist and the V2.1 Linux and Open-Source Database Migration to Microsoft Azure Specialization audit
+checklist.
+Module B - Oct 3, 2022
+Microsoft retired partner Gold Cloud competency, the aligned Solutions Partner designation is now required.
+For this specialization, your organization must have an active Solutions Partner for Data & AI (Azure) or a Solutions
+Partner for Infrastructure (Azure) designation.4 
+Module A - July1, 2022
+Checklist updates published May 2, 2022, in preview for Module A checklist are now required. In Control 2.2,
+a new required Skilling Plan has been added to the checklist and is now required.
+Module B - May 2, 2022
+• Guidance for the definition of Proof of Concept and Pilots added to the FAQ.
+• Preview updates to Module A were made available, these are required July 1, 2022 
+Jan 1, 2022
+Guidance and FAQ Updates5 
+Contents
+Infra and DB Migration to Microsoft Azure Specialization Program Overview ..................................................... 5
+How to apply ......................................................................................................................................................................... 6
+NDAs for the audit ................................................................................................................................................................ 7
+Payment terms and conditions ......................................................................................................................................... 7
+Audit blueprint ...................................................................................................................................................................... 7
+Audit roles ............................................................................................................................................................................... 8
+Audit Process: High-level overview .................................................................................................................................. 8
+Audit Process: Details .......................................................................................................................................................... 9
+Audit preparation best practices and resources .......................................................................................................... 11
+Audit checklists .................................................................................................................................................................... 12
+Partner FAQ ..........................................................................................................................................................................366 
+Infra and Database Migration to Microsoft Azure Specialization Program
+Overview
+This document defines the requirements to earn the Infra and Database Migration to Microsoft Azure
+Specialization. It also provides further requirements, guidelines, and an audit checklist for the associated audit
+that is required to earn this Azure specialization. 
+The Infra and Database Migration to Microsoft Azure Specialization is designed for partners to demonstrate
+deep knowledge, experience, and success in planning and migrating their customer’s infrastructure and
+database workloads to Azure. Partners with demonstrated expertise across both Windows Server and SQL
+Server and across Linux and Open-Source database migration to Microsoft Azure may apply.
+The Infra and Database Migration to Microsoft Azure Specialization allows partners with an active Solutions
+Partner for Infrastructure designation or Solutions Partner for Data & AI designation to demonstrate their
+capabilities, build stronger connections with customers and differentiate their organizations in Infrastructure
+and Database migration. 
+Partners who meet the comprehensive requirements to earn an Azure Specialization, receive a customer-
+facing label they can display, badge and a business profile in Microsoft AppSource partner gallery.
+In AppSource, access to specific Microsoft go-to-market programs is prioritized in customer searches
+to help drive new business. Partners can also generate a certified letter from Microsoft that verifies
+the Azure specializations that they have earned. For these reasons, this opportunity is available only
+to partners that meet additional, stringent requirements. 
+Please note: This specialization requires 3rd party certifications to proceed to audit unless you are approved
+for the alternate Module B pathway option. These certifications are found in Module B Control 1.1.
+How to apply
+Only a Microsoft AI Cloud Account Administrator or a Global Administrator of an organization’s Microsoft
+partner account can submit an application for the Azure specialization on behalf of the organization.
+Partners with the appropriate role and access permissions can apply. To do so, they sign into their Partner
+Center account. On the left pane, select Azure under the Specialization section. Toggle to the specialization that
+you wish to apply for by using the drop-down menu at the top of the page.7 
+NDAs for the audit 
+Auditors comply with requests from partners to sign a direct NDA. All ISSI auditors are under a
+nondisclosure agreement (NDA) with Microsoft. If a partner would like an NDA to be signed directly
+between ISSI and the partner organization for purposes of the audit, one can be provided by the partner
+during the audit scheduling process to ISSI. ISSI will sign and return it. 
+Payment terms and conditions
+Pricing schedule as of July 1, 2024
+Module B Audit: $2,400 USD 
+Module A+B Audits: $3,600 USD
+A Gap Review Meeting is included with each Module audit.
+Payment terms 
+The cost of the audit is payable in full to the audit company and must be settled before the audit begins.
+Failure to pay will result in cancellation of the audit.
+Program status term
+When a partner meets all prerequisite requirements shown in Partner Center and Microsoft receives a valid
+Pass Report from the third-party audit company, the partner will be awarded the Infra and Database
+Migration Azure Specialization for one (1) calendar year.
+The status and the Infra and Database Migration Azure Specialization label can be used only by the
+organization (determined by Partner Center MPNPGA ID account) and any associated locations
+(determined by MPN PLA ID) that met all requirements and passed the audit. Any subsidiary or affiliated
+organizations represented by separate Partner Center accounts (MPN PGA ID) may not advertise the status
+or display the associated label.
+Audit blueprint
+Audits are evidence-based. During the audit, partners will be expected to present evidence they have
+met the specific requirements on the checklist. This involves providing the auditor with access to live
+demonstrations, documents, and SME personnel to demonstrate compliance with checklist requirements.
+The audit checklist will be updated to stay current with technology and market changes, and the
+audit is conducted by an independent, third-party auditor.
+The following is included in the audit blueprint:
+1. Audit Roles
+2. Audit Process: High level overview
+3. Audit Process: Details
+4. Audit Best Practices and Resources8 
+Audit roles
+Role of the auditor 
+The auditor reviews submitted evidence and objectively assesses whether the evidence provided by the partner
+satisfies the audit checklist requirements. The auditor selects and evaluates evidence, based on samples of the
+information available from live systems. The appropriate use of such sampling is closely related to the confidence
+that can be placed in the audit conclusions. All ISSI auditors are under a non-disclosure agreement (NDA) with
+Microsoft. Auditors will also comply with requests from partners to sign a direct NDA. 
+Role of the partner 
+The partner must provide objective evidence that satisfies the auditor for all checklist items. It is the responsibility of
+the partner to have reviewed all check-list items prior to the audit, to have collected all necessary documentation and
+evidence, and to have ensured that the right subject matter experts are available to discuss and show systems, as
+appropriate. All audit evidence must be reproducible and verifiable.
+Role of the Microsoft Partner Development Manager 
+For partners that have an assigned Microsoft Partner Development Manager (PDM), the PDM is responsible for ensuring
+that the partner fully understands the requirements prior to applying for the audit. The PDM may attend the optional
+consulting engagements that ISSI offers, but the PDM and other Microsoft FTEs may not attend the audit. 
+Audit Process: High-level overview 
+Step Action Responsibility
+1 Review: Specialization requirements in Partner Center. Review audit
+checklists in the specialization and begin to prepare the necessary
+evidence with personnel for an evidence-based audit. Recommended:
+Before you apply, review the specific audit checklist thoroughly and
+confirm SME personnel required for the audit date.
+Partner
+2 Meet the prerequisites and apply for the audit: In the initial
+application phase, applications are submitted in two (2) stages: 
+1. Prerequisite requirements (see Partner Center for details)
+2. Audit
+Do not start the application process unless you are ready to undertake
+the audit. Assess your firm’s ability to complete the audit, including
+considerations for readiness, employee availability, and holidays.
+Partner
+3 Validate: The partner meets all requirements prior to audit. Microsoft 
+Confirmed by Microsoft: Microsoft confirms with the third-party audit
+company that the partner is eligible for audit.
+Microsoft
+4 
+5 Schedule with partner: The auditor will schedule within two (2) business
+days.
+Auditor (with
+partner)9 
+6 Conduct the audit: Within thirty (30) calendar days of the approval for
+audit.
+Auditor
+7 Provide a Gap Report: If applicable, to the partner within two (2)
+business days of the completed audit, listing any Open Action Items. *
+Auditor
+8 Acknowledge Gap Report receipt and schedule meeting: Within two
+(2) business days of receiving the Gap Report, the partner acknowledges
+receipt of the report and schedules a Gap Review Meeting. Partners can
+begin immediate remediation of open items.
+Partner
+9 Complete the meeting: Within fifteen (15) calendar days of receiving
+the Gap Report, the partner schedules and completes the Gap Review
+Meeting with the auditor to provide evidence and address any Open
+Action Items. *
+Auditor (with
+partner)
+10 Issue Final Report: To the partner within five (5) business days. Notify
+Microsoft of audit Pass or No Pass result.
+Auditor
+11 Notify partner: About program status within two (2) business days. Microsoft
+*These steps will be skipped if the partner has no Open Action Items after the audit. 
+Audit Process: Details
+Microsoft uses an independent third-party audit company, Information Security Systems International,
+LLC (ISSI), to schedule and conduct Azure specialization audits. After the audit date has been confirmed,
+ISSI will provide an agenda for the partner. The duration of an audit is four (4) hours for Module B
+workloads and eight (8) hours for Module A+B audits combined, depending upon the scope of the audit. 
+During the audit, the partner must provide access to the appropriate personnel who can discuss and
+disclose evidence that demonstrates compliance with program requirements. We highly recommend that
+subject matter experts for each section attend as well as a person who is familiar with the entire audit. 
+On the day of the audit, the partner must be prepared to provide the auditor with access to live
+demonstrations, documents, and personnel, as necessary to demonstrate compliance with the
+requirements. During the audit, the auditor will seek to verify that the partner’s evidence has addressed
+all required audit checklist items satisfactorily.
+A note on audit checklist effective dates: Partners are audited against the checklist items that are active on
+the date of their remote audit, not the date they apply. Audits are updated twice annually. The
+partner application or renewal date has no bearing on the version of the checklist that is used for the
+audit.10 
+The audit can produce either of two (2) outcomes:
+1. The partner passes the audit.
+• The auditor will present a brief synopsis of the audit. This will include identifying
+observed strengths and opportunities for improvement.
+• The auditor will provide a Final Report to the partner.
+• The auditor will notify Microsoft. 
+2. The partner does not satisfy all checklist items during the audit.
+• The auditor will present a brief synopsis of the audit at the end of the day, including
+observed strengths and Open Action Items, as outlined in the Gap Report, within
+two
+(2) business days.
+• The partner will acknowledge receipt of the Gap Report within two (2) business days.
+• The partner will move into the Gap Review phase and schedule their Gap Review Meeting
+within fifteen (15) calendar days. 
+The Gap Review 
+If the partner does not, to the auditor’s satisfaction, provide evidence that meets the required scores
+across all audit categories during the audit, the partner will move into a Gap Review. A Gap Review is
+part of the audit and completes the process.
+Within two (2) business days after the audit, the partner will receive a Gap Report, which details any
+Open Action Items and the outstanding required evidence. It is suggested to begin remediation of any
+open action items as soon as possible following the audit.
+The partner then has two (2) business days to acknowledge receipt of the Gap Report and schedule a
+Gap Review Meeting. The Gap Review Meeting is conducted with the auditor over the partner’s virtual
+conference platform of choice. The meeting must take place within fifteen (15) calendar days of when the
+Gap Report was sent, and it may last no longer than one (1) hour. During the Gap Review Meeting the
+partner must present evidence that addresses any and all Open Action Items.
+The Gap Review Meeting can produce either of two (2) outcomes:
+1. The partner resolves all Open Action Items.
+• The auditor confirms that the partner has provided the required evidence.
+• The auditor provides a Final Report for the partner.
+• The auditor notifies Microsoft about the outcome (subject to Auditor Terms and Conditions). 
+2. The partner does not resolve all Open Action Items.
+• The auditor presents a brief synopsis of the audit, including missed items.
+• The partner receives a Final Report that details the missed items.
+• The auditor notifies Microsoft about the outcome (subject to Audit Terms and Conditions). 
+If the partner is still unable to provide satisfactory evidence to the auditor during their Gap Review Meeting,
+the partner will be deemed to have failed the audit. Partners that still want to earn this Azure specialization will
+need to begin the application process again.11 
+Completion of the audit
+The audit process concludes when ISSI issues the Final Report after the audit or after the Gap Review. Partners will
+receive a Pass or No Pass result upon completion of the audit process. 
+A Pass result satisfies the audit requirement for this Azure specialization for two (2) years. A “No Pass” result
+is generated when a partner fails or withdraws from the audit. When a No Pass result is entered into Partner
+Center, you will see your status as “Audit Failed” in your dashboard. This status will reset within one week to
+“Not Enrolled,” allowing you to reapply. Contact Partner Center Support if needed. 
+Audit preparation best practices and resources
+Partners should ensure that the audit checklist has been thoroughly read in advance of the audit.
+• Partners should ensure that all partner stakeholders involved in the audit have a copy of the audit
+checklist and are confirmed for the date and time duration of the audit
+• A lead stakeholder who knows the entire process must be available for the length of the audit
+• Partners should confirm that they have access granted for the auditors, and files and tools are readily
+available during the audit exhibits 
+Stakeholder SME attendance in the audit 
+Stakeholders who can best address the relevant section should be available for the audit. However, please
+make sure that a stakeholder who knows the entire process is available for the duration of the audit.
+Auditors often probe for more information
+The auditor probes for more information to ensure that mature and repeatable processes are in place with the
+partner and that they are established, effective, and efficient. The auditor is looking to see how a document
+was created, where it is located, and what source materials were used to create the document. By probing for
+more information, the auditor evaluates and validates that the partner is operating at an advanced level. This
+can only be done by questioning during the audit. This approach is explained to the partner during the
+opening meeting.
+Acceptable evidence: Excerpts, exhibit file formats and use of PowerPoints 
+PowerPoints are a common and accepted format for presenting a high-level overview of a partner’s systems.
+However, please also be prepared to present live demonstrations from source files so that the auditor may
+confirm that the systems in place are mature and effective. Excerpts can be used to communicate the high-
+level overview, however, as sole evidence these are not acceptable. Source documents must also be
+presented.12 
+Additional resources: Two optional audit preparation offers from the auditing firm *
+To ensure objectivity, consulting auditors and auditors conducting the actual audits are different ISSI auditors.
+1. Partners can participate in a paid optional, one (1)-hour, live Audit Process & Controls Overview
+session provided by ISSI. This session provides a high-level overview of key aspects of the Azure
+specialization audit process. Partners work directly with ISSI to schedule this remote session (via online
+web conference). For more information about this session, see Azure Specialization - Audit Process and
+Controls Overview
+2. ISSI also provides optional extensive, paid, in-depth consulting engagements to help partners prepare for their
+Azure specialization audit. Partners work directly with ISSI to schedule this remote session (via online web
+conference). For more information about this type of in-depth engagement, see Azure Specialization
+Consulting Offer https://issi-inc.com/az-advspeconsulting/
+*Please note that there is a cost associated with both ISSI’s Consulting and the Process and Controls Overview. These can be
+scheduled at any time with ISSI; however, Microsoft recommends the partner does not schedule these during the actual audit
+but instead if chosen, work these into the planning timeline before the audit is scheduled. 
+Audit checklists
+The Infra and Database Migration to Microsoft Azure Specialization checklist contains two (2) modules, Module A,
+Cloud Foundation and Module B: The Infra and Database Migration to Microsoft Azure Specialization workload. 
+Module A, Cloud Foundation is required for multiple Azure specializations. Module A evaluates the use of
+a consistent methodology and process for Azure adoption that is aligned with customers’ expected
+outcomes, spanning the entire cloud adoption lifecycle. Module A is part of the Module B specialization
+audit package, and as a requirement must be renewed by audit for all Azure specializations.
+To complete or renew Module A, the partner needs to pass all controls in Module A by providing the
+specified evidence or providing evidence of a recent (within two years) Module A+B Pass result. The
+relevant date for each partner is the Module B Anniversary Date (AD) shown in Partner Center. 
+To waiver out of Module A, the partner must provide evidence of a recent (within two years) Pass result for
+an applicable A+B audit or a Pass result for the AEMSP Control 3.A within the last year. 
+Module A waivers:
+All Azure Specializations: When applying to renew subsequent Azure specializations, a previous Module A
++B audit Pass result will satisfy the requirements for Module A if the result has been within two (2) years
+and is on the same Module A version. (Module A updates every two years in July). Partners who have
+passed an A+B Azure specialization audit within the last two years have satisfied the requirements for
+Module A in all Module A+B Azure specialization audits, unless otherwise noted. The relevant Module B
+Anniversary Date (AD) is shown in Partner Center.
+Special note: Partners who have passed a Module B Azure specialization audit before July 1, 2021, and
+specifically for the Analytics on Microsoft Azure specialization before Oct 1, 2021, have likely not passed the
+Module A audit and will need to do so to qualify for an Azure Module B specialization audit.13 
+AEMSP: Partners who have passed Azure Expert MSP V1.9 and later Module 3.0 (in Full and Progress audits)
+have satisfied the requirements for Module A in all Module A+B Azure specialization audits, unless
+otherwise noted. AEMSP Partners audit yearly to stay enrolled, and Module 3.A Cloud Adoption Framework
+is also a yearly control requirement. 
+Special note: Partners who sequentially waiver out of Module A in multiple Module A+B audits and then
+subsequently waiver out of AEMSP Module 3.A within a two-year timeline will likely be required to take a
+Module A audit at Module A+B renewal. 
+If there are questions regarding a potential waiver for Module A, reach out to the Azure Partner Specializations
+<azureAS@microsoft.com> 
+Module B, The Infra and Database Migration to Microsoft Azure Specialization workload module
+validates that the partner has adopted robust processes to ensure customer success across all phases of
+deploying Infra and Database Migration solutions, from the assessment phase to design, pilot,
+implementation, and post-implementation phases. Review the following audit checklist tables for more
+details about each control phase and to learn how the partner will be evaluated for an audit. The same
+customers may be used for Module A & B. The estimated length of both modules together is eight (8)
+hours.
+Alternate Pathway Note: You may qualify for an alternate audit checklist using alternate evidence scenarios if
+Microsoft communicates this is available to you. To inquire ask at Azure Partner Specializations
+<azureAS@microsoft.com>
+Module A: Cloud Foundation
+1. Strategy
+2. Plan
+3. Environment readiness and Azure landing zone
+4. Governance
+5. Manage 
+Module B: Infra and Database Migration to Microsoft Azure workload 
+1. Third- party certifications
+2. Assess
+3. Design
+4. Deployment
+5. Review and Release for operations 
+To pass the audit, the partner must complete all audit checklist items.
+Module A, Cloud Foundation is required for multiple Azure specializations. To complete Module A: Cloud
+Foundation, the partner needs to pass all controls in Module A by providing the specified evidence.
+Alternatively, the partner may present evidence of a previous pass result from Module A or from another
+Azure specialization audit conducted on V2.0 or later.14 
+Module B, The Infra and Database Migration to Microsoft Azure Specialization workload. Each control has one
+(1) or more requirements and requires evidence the partner must provide for the auditor. Both the
+requirements and the required evidence are defined in the following tables. For some controls, a reference
+customer or customer evidence is the documentation requested.
+Each customer case does not have to include all four (4) scenarios. A single project may satisfy multiple
+scenarios.
+1. Migration of Infra (Windows Server) Applications to Azure
+2. Migration of Linux-based applications to Azure
+3. Migration of Microsoft SQL to Azure (can include Arc-enabled SQL Managed Instance (MI)
+4. Migration of MySQL, PostgreSQL, MariaDB or MongoDB database to Azure 
+For Module B, an alternate pathway:
+Each customer case does not have to include all scenarios. A single project may satisfy both scenarios. 
+1. Migration of Infra (Windows Server) Applications to Azure
+2. Migration of Microsoft SQL databases to Azure (can include Arc-enabled SQL Managed Instance (MI) 
+For audit evidence relating to customer engagements, the partner can use a customer case study and reference it
+multiple times. The same or different customers can be used for Modules A & B if they demonstrate requirements.15 
+Module A: Cloud Foundation control checklist 
+1.0 Strategy and FinOps
+The partner must have a defined approach for helping their customer evaluate and define a cloud
+adoption strategy beyond an individual asset (app, VM, or data).
+Requirement
+1.1 Cloud Adoption Business Strategy
+The partner must have a defined process that captures the data-driven business strategies
+being used to guide customer decisions. The process should include, at minimum, the
+following:
+1. A strategy review that captures the customer’s business needs and the problems the
+customer is trying to solve.
+2. Personalized recommendations from the partner for the customers’ business
+strategies.
+Required evidence:
+A Report, Presentation, or Documented Plan that captures strategic inputs and decisions
+for two (2) unique customers, and that demonstrate the Azure Cloud Adoption Business
+decisions for the Azure Cloud Framework, by using the Cloud Adoption Strategy Evaluator
+(CASE) assessment output. 
+These projects should have been completed in the past twelve (12) months. The projects
+must be aligned with the above-described processes 1 and 2 and highlight both customer
+Business and FinOps (Financial) outcomes. 
+For an example, see the Cloud Adoption Strategy Evaluator,  Strategy and plan templates
+in the Cloud Adoption Framework for Azure, and especially the FinOps Assessment best
+practices in Build. 
+2.0 Plan
+The partner must have a consistent approach to planning for cloud adoption that is based on the strategy
+outlined in the preceding section.
+Requirement16 
+2.1 Cloud Adoption Plan
+The partner must have a process and approach for planning and tracking the
+completion of cloud adoption projects.
+Required evidence:
+The partner must provide evidence of their capability for process and approach to
+planning and completion with examples of two (2) unique customer projects that were
+completed in the past twelve (12) months.
+Acceptable evidence will include at least one (1) of the following for each customer:
+• Azure DevOps backlog OR
+• Tools for project planning and tracking used by the partner OR
+• Cloud Adoption Plan Generator output using the Azure Cloud Adoption Framework  
+2.2 Plan for Skilling
+When customers adopt the cloud, their existing technical staff will need a variety of new
+skills to aid in making technical decisions and to support the new cloud implementations.
+To ensure the long- term success of the customer, the partner must document a skilling
+plan to prepare the customer’s technical staff.
+The Partner must document a list of key customer technical roles expected to require
+new skills such as, but not limited to, IT Admins, IT Governance, IT Operations, and
+IT Security.
+The documentation must include:
+1. A description of the new skills the technical roles will need to achieve to
+successfully manage the new environment.
+2. Resources the customer can leverage when training their technical employees
+such as Microsoft learning paths, technical certifications, or other comparable
+resources. 
+For guidance, review Microsoft docs Azure Cloud Adoption Framework How to build
+a skilling readiness plan.
+Required evidence:
+The partner must provide a skilling plan for at least two (2) unique customer
+engagements completed within the last twelve (12) months. The two (2) skilling plans
+documented can include a customer-facing presentation, planning documents, post
+deployment documentation or similar plan documentation.  
+3.0 Environment Readiness and Azure Landing Zone
+The partner must be able to demonstrate that the following design areas are addressed through their
+approach to landing zone implementation.
+Requirement17 
+3.1 Repeatable Deployment
+The partner must demonstrate adherence to Azure landing zone (ALZ) design areas through a
+repeatable deployment. The deployment should configure, at minimum, the following
+identity, network, and resource organization attributes:
+• Identity
+o Adoption of identity management solutions, such as Microsoft Entra ID
+(formerly Azure Active Directory) or equivalent
+• Networking architecture design (topology)
+o Define an Azure network topology - Cloud Adoption Framework | Microsoft Docs
+o Application of hybrid architectures that use Azure ExpressRoute, VPN
+Gateway, or equivalent services for connecting local datacenters to
+Azure
+• Resource organization
+o Implementation of tagging and naming standards during the project 
+The partner must demonstrate which of the following approaches they used when they
+deployed Azure landing zones for two (2) unique customers:
+1. Start small and expand: Azure landing zone does not deploy
+governance or operations configurations, which are addressed later
+in the implementation.
+2. Full Azure landing zone (ALZ) conceptual architecture: Azure landing zones
+implement standard approach to the configuration of governance and
+operations tools prior to implementation.
+3. Alternative approach: If the partner follows a proprietary approach or a mixture
+of the two (2) approaches above, the partner must clearly articulate their
+approach to environment configuration.
+4. Brownfield scenario: The partner’s customer has a landing zone that does not
+follow best practices, and an update is required to follow best practices in the
+Cloud Adoption Framework.
+Required evidence:
+The partner must provide evidence of a repeatable deployment they used to create landing
+zones, aligned to the Azure landing zone (ALZ) conceptual architecture, deployed to two (2)
+unique customer environments using Bicep or Terraform modules, and ARM (AZURE Resource
+Manager) templates to automatically deploy the environment configuration. 
+If a customer deviates from the specified architecture, the partner must demonstrate the
+customer requirements to justify the deviation. 
+The provided template can be pulled directly from the Cloud Adoption Framework Landing zone
+implementation options, or it can be based on the partner’s own IP (Intellectual Property). 
+In either case, the output evidence must demonstrate the configuration of the identity, network,18 
+and resource organization, as described earlier above. 
+Special Evidence Note:
+For Analytics on Azure specialization deployments and Data Warehouse Migration to Azure
+specialization deployments only: If no Identity or Networking components are deployed in the
+Azure Landing Zone, a documented focus on Resource organization attributes is sufficient to
+pass this control.
+4.0 Governance
+The partner must demonstrate their customer’s role in governing cloud-based solutions and the Azure
+tools they use to facilitate any governance requirements their customer might have today or in the
+future.
+Requirement
+4.1 Governance Tooling
+The partner must demonstrate the ability to deploy the required governance tools for two (2)
+unique customer projects.
+Required evidence:
+The partner must demonstrate the use of Azure Policy to provide controls to govern the
+environment for two (2) unique customers with Azure projects that were completed in the
+past twelve (12) months. See governance tools for templates.
+5.0 Manage
+The partner must demonstrate that they have set up their customers for operational success after the
+deployment is completed. All partners have a role in setting up operations management, even if they do
+not provide long-term managed services.
+Requirement
+5.1 Operations Management Tooling
+The partner must demonstrate the use of Azure products or equivalent to help their
+customer and/or managed service provider operate the environment after deployment.
+Required evidence:
+The partner must demonstrate the deployment of at least one (1) of the following Azure
+products or third-party equivalents: Azure Monitor, Azure Automation, or Azure Backup/Site
+Recovery, for two (2) unique customers with projects that were completed in the past twelve
+(12) months. 
+Special Evidence Note:
+For Analytics on Azure specialization deployments and Data Warehouse Migration to Azure
+specialization deployments only: If no Operations Management Tooling is deployed, this control
+may be skipped.19 
+Module B: Infrastructure and Database Migration to Microsoft Azure
+Specialization 
+1.0 Third-party Certifications required
+The partner’s resources are highly knowledgeable in open-source technologies.
+Requirement
+1.1 Certification required for Infra and Database Migration to Azure standard pathway
+The partner must be a member of either the Red Hat Business Partner Program
+OR the SUSE One Partner Program
+OR they must have two (2) full-time employees who each have one (1) of the following
+certifications:
+• Linux Foundation Certified Sys Admin
+• Linux Foundation Certified Engineer
+• LPIC-1 Certified Linux Administrator
+• LPIC-2 Certified Linux Engineer
+• Linux Professional Institute DevOps Tools Engineer
+• PostgreSQL Professional Certification (V13 until Nov. 2025)
+• PostgreSQL Advanced v16 Certification V2
+• RedHat Certified System Administrator (RHCSA)
+• RedHat Certified Engineer (RHCE)
+• Red Hat Certified Architect (RHCA)
+• SUSE Enterprise Architect (SEA)
+• SUSE Certified Engineer (SCE)
+• SUSE Certified Administrator (SCA& SCA+)
+• EDB Professional Certification 
+Required Evidence:
+Certifications must be verified through one (1) of the following below or show that the partner
+is listed as a partner in the Red Hat Partner Program Directory or the SUSE One Partner
+directory. If the partner is not listed in the Red Hat or SUSE Program directory, two (2) FTEs
+must verify one of the above certifications by:
+• The Linux Foundation
+• Linux Professional Institute (LPI)
+• Verify a RedHat Certified Professional | redhat.com
+• Red Hat CCSP Program 
+• Provide the individual’s profile badge as a PostgreSQL Professional on the
+individual’s LinkedIn or other social media pages with this competency or
+certification.
+• The partner must also provide evidence that the certified personnel are currently full-
+time employees.20 
+2.0 Assess
+The partner must have a consistent approach for assessing customer requirements for the workload.
+Requirements
+2.1 Workload Assessment
+The partner must demonstrate how they assess each workload prior to migration to
+ensure that adequate pre-migration or pre-deployment planning and sizing were
+performed.
+The assessment must include mapping that shows the dependencies upstream from the
+resources that will be migrated. It must also show:
+• The infrastructure, data volumes and database sizes to be migrated.
+• The migration timeline and approach.
+• The migration risk assessment.
+• Backup and disaster recovery for existing workloads.
+• Licensing and cost management requirements.
+• Documentation of the customer’s existing identity implementation on Azure, gaps
+identification, and best practices recommendations. 
+The partner must provide evidence for all four (4) of the following scenarios, across a
+minimum of two (2) unique customer projects completed within the past twelve (12)
+months. Each customer case does not have to include all four (4) scenarios, a single project
+may satisfy multiple scenarios.
+1. Migration of Infra (Windows Server) to Azure
+2. Migration of Linux-based applications to Azure
+3. Migration of Microsoft SQL databases to Azure (can include Arc-enabled SQL
+Managed Instance (MI)*
+4. Migration of MySQL, PostgreSQL, MariaDB or MongoDB database to Azure *
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud 
+Oracle migration to PostgreSQL, Cosmo DB or Azure SQL will qualify in scenarios three (3) &
+four (4). 
+Required Evidence: The partner must provide evidence for all four (4) of the above following
+scenarios, across a minimum of two (2) unique customer projects completed within the past
+twelve (12) months. Each customer case does not have to include all four (4) scenarios, a single
+project may satisfy multiple scenarios. 
+Assessments may be done manually or through an industry-accepted assessment tool.
+Accepted Documentation: Output from Assessment Tools such as: Azure Migrate, Movere, or
+other similar Third-party Tooling Reports, Assessment Checklists, Templates, Questionnaires and
+Project Plans.21 
+3.0 Design
+The partner has robust methodologies for designing the workload.
+Requirement
+3.1 Solution Design including Azure Landing Zone 
+The partner must provide relevant solution design documents that show a consistent approach
+to addressing customer requirements that were captured in the Assessment phase.
+Required Evidence:
+The partner must provide solution designs that show a consistent approach to addressing customer
+requirements that were captured from the Assessment phase.
+The partner must provide evidence for two (2) of the four (4) following solution design
+scenarios across a minimum of two (2) unique customer projects completed within the past
+twelve (12) months. Each customer case does not have to include all scenarios, a single project
+may satisfy multiple scenarios.
+1. Migration of Windows-based applications to Azure
+2. Migration of Linux-based applications to Azure
+3. Migration of Microsoft SQL databases to Azure (can include Arc-enabled SQL Managed
+Instance (MI)*
+4. Migration of MySQL, PostgreSQL, MariaDB or MongoDB database to Azure * 
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud 
+Oracle migration to PostgreSQL, Cosmo DB or Azure SQL will qualify in scenarios three (3) & four
+(4). 
+The solution design must show all of the following:
+• A migration design or strategy that outlines which applications, databases, or
+database auxiliary components (reporting service, integration service) are in scope
+for the migration.
+• An outline of the migration method (rehost, refactor, or replatform) to be used for the
+application, database, database auxiliary components, and so on. It should show how the
+design addresses the workload dependencies that were demonstrated in the assessment, with
+appropriate mitigations.
+• The migration risk assessment and risk mitigation. The high-level migration sequence and
+estimated time to finish the migration. The validation of the successful migration completion.
+Azure landing zone (ALZ): The environment that supports the referenced customer
+deployments should address each of the design areas below required below. If an item is not
+relevant, the partner must document the customer’s decision to deviate from applying best
+practices.22 
+Present evidence of:
+o Implementation of Identity & Access Management (IAM) and role-based access control
+(RBAC), data sovereignty and encryption, application security, and auditing.
+o Establishing a hub and spoke architecture or retrofitting the existing deployment
+to separate out the network components of a hub for optimal performance and
+security.
+o Showing resource and perimeter security, such as bastion hosts, network
+security groups and/or Azure Firewall, and/or virtual security and routing
+appliances with appropriate monitoring.
+o Using security products, such as Azure security services, Microsoft 365 security,
+Microsoft Defender for Cloud, or other security solutions, to secure access to
+the data.
+o Using governance tooling to support cost optimization across the environment.
+After estimating the initial cost, setting budgets and alerts at different scopes
+to proactively monitor the cost.
+o Using backup and recovery solutions to ensure data retention.
+o Meeting requirements for government regulatory compliance in the new
+environment, such as GDPR and HIPAA, and implementing them through
+multiple datacenter regions, as needed.
+o Implementing a monitoring solution to provide proactive remediation for the
+Azure environment, to integrate with the customer's existing monitoring
+tooling, if appropriate.
+o Showing that visualization and alerting considerations for solutions are in
+place, where appropriate. 
+Acceptable Documentation: Project Plan, Functional Specifications, Solution Design
+Document, Architectural Diagram, Automated Tooling Reports, and Physical and Logical
+diagrams.23 
+3.2 Azure Well-Architected Review of Workloads
+The partner must demonstrate usage of the Azure Well-Architected Review on migrated
+applications. The Azure Well-Architected Review is designed to help partners evaluate your
+customers' workloads against the latest set of industry best practices. It provides actionable
+guidance to design and improve your customers' workloads. 
+The Review can be used to evaluate each workload against the pillars of the Azure Well-
+Architected Framework that matter to that workload.
+Unless otherwise specified, Reviews may be conducted before, during, or after deployment. 
+Required Evidence: The partner must provide exported results from the completed Well –
+Architected Review. Evidence for all four (4) of the following migration scenarios across a
+minimum of two (2) unique customer projects completed within the past twelve (12) months.
+Each customer case does not have to include all four (4) scenarios. A single project may
+satisfy multiple scenarios. Please indicate the customer’s name in evidence.
+1. Migration of Infra (Windows Server) to Azure
+2. Migration of Linux-based applications to Azure
+3. Migration of Microsoft SQL to Azure (can include Arc-enabled SQL Managed
+Instance (MI)*
+4. Migration of MySQL, PostgreSQL, MariaDB or MongoDB database to Azure*
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud 
+• Oracle migration to PostgreSQL, Cosmo DB or Azure SQL will qualify in scenarios three
+(3) & four (4).
+4.0 Deployment
+The partner has robust methodologies for deploying the workload.
+Requirement
+4.1 Infrastructure Migration Deployment
+The partner must provide evidence of their ability to migrate infrastructure to a production
+environment based on customer approved designs, from one (1) of the following Azure
+Infrastructure scenarios:
+• Move the application from an on-premises Windows/Linux Server to Azure
+infrastructure as a service (IaaS). (*)
+• Move the application that is running on Windows Server/Linux from
+another public cloud platform to Azure IaaS. (*) 
+* Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud24 
+For more information see Azure Arc as a landing zone accelerator. 
+Required Evidence: The projects shown for this control must be the same as in Control 3.1
+The partner must provide evidence of their ability to implement an infrastructure migration to a
+production environment, based on customer-approved designs for a minimum of two (2)
+unique customers using one (1) of the above migration scenarios. The documentation must
+include at least two (2) of the following evidence items for each customer project, totaling
+four (4) evidence artifacts:
+• Signed Statements of Work (SOWs) for all projects
+• Solution Design Documents for all projects
+• The Project Plan and Migration and Deployment sequence
+• Architecture Diagrams
+• High-level Designs (HLDs) and Low-level Designs (LLDs)
+• As-built Documentation
+4.2 Database Migrations
+The partner must provide evidence of their ability to migrate databases to Azure with customer
+approved designs choosing one (1) of the options for deployment from each of the following
+two (2) scenario lists.
+Scenario 1: Migrations to AZURE SQL
+o Rehosting from SQL Server on-premises or from another public cloud to SQL IaaS on Azure.
+o Replatforming from SQL Server on-premises or from another public cloud to SQL
+platform as a service (PaaS) on Azure (SQL Database or SQL Managed Instance, or
+Azure Arc). *
+o Replatform from Oracle to Azure SQL IaaS or PaaS.
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud 
+Scenario 2: Migrations to Azure Open-Source Databases and Cosmos DB
+o Replatform Oracle to Azure Database for PostgreSQL
+o Replatform or rehost PostgreSQL to Azure Database for PostgreSQL*
+o Replatform or rehost MariaDB to Azure SQL Database for MariaDB
+o Replatform or rehost MySQL to Azure SQL Database for MySQL
+o Replatform or rehost Cassandra to Azure Cosmos DB or Azure Managed Instance for
+Apache Cassandra
+o Replatform or rehost MongoDB to Azure Cosmos DB
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud 
+Required Evidence:
+The projects shown for this control must be the same as in Control 3.1. The partner must
+provide evidence of their ability to migrate databases to Azure with customer approved
+designs, choosing one (1) of the options for deployment from each of the above two (2)
+scenario lists for a minimum of two (2) unique customers. To cover the entire sequence,
+including design and production deployment, the documentation must include at least two
+(2) of the following items for each customer project, totaling four (4) evidence artifacts
+required:25 
+o Signed Statements of Work (SOWs) for the projects
+o Solution Design Documents for all projects
+o The Project Plan with Migration and Deployment sequence
+o Architecture Diagrams
+o High-level Designs (HLDs) and Low-level Designs (LLDs)
+o As built documentation
+4.3 Migration Tools
+The partner must demonstrate the specific products, tools, or scripts that were used for the
+assessment and migration of customer workloads. The partner must demonstrate the customer
+accepted the migration approach by showing confirmation from the customer. 
+Required Evidence:
+Partners must provide documentation and prove customer migration tool experience with at
+least one (1) of the following options through a demonstration of tools using (A, B, or C):
+A. Show experience with using native Azure migration tools by providing a step-by-
+step demonstration that they can effectively use at least four (4) of the following
+tools:
+• Azure Migrate Server Assessment for VMware and Hyper-V
+• Data Migration Assistant (DMA)
+• SQL Server Migration Assistant (SSMA)
+• Azure Migrate Server Migration VMware and Hyper-V (use of Azure Site Recovery
+is also accepted)
+• Azure Database Migration Service
+• Storage Migration Service
+B. Show experience with third-party tools that integrate with Azure Migrate by demonstrating a
+customer project where assessment data is available from Azure Migrate or available to them
+offline and they perform the migration by using third-party tooling.
+C. Show experience with all other third-party tools by referencing the tools used in a project plan
+for successfully migrating a customer to Azure, or by providing a spreadsheet with output from
+and snapshots of results in an output file from the tools that they used.
+Tools may include but are not limited to:
+• CloudSphere
+• Carbonite
+• PlateSpin
+• CloudEndure
+• River Meadow
+• Cloudamize
+• Zerto
+• StratoZone26 
+4.4 Automated Deployment and Provisioning Tools
+The partner must demonstrate specific products, tools, or scripts that they used for automated
+provisioning and deprovisioning of infrastructure and database migrations, including tools for
+continuous integration and continuous delivery (CI/CD). 
+Required Evidence:
+Include Demonstrations of Products, Tools, or Scripts used for:
+• Automated deployment, including creation of workload deployment templates.
+• Cloud service provisioning and deprovisioning, including viewing of service template,
+packages, or runbooks that were used in the deployment of customers’ Azure
+environments.
+• Automation of routine operations, or automated scale-out. 
+The partner must provide evidence for all four (4) of the Infra and Database Migration
+deployment and provisioning scenarios across a minimum of two (2) unique customer
+projects completed within the past twelve (12) months. Each customer case does not have to
+include all four (4) scenarios, a single project may satisfy multiple scenarios.27 
+5.0 Review and Release for Operations
+The partner has robust methodologies for transitioning the workload.
+Requirement
+5.1 Service Validation and Testing
+The partner must validate the deployment, including:
+• Their documented process and approach to testing and evaluating the performance
+of all applications against customers’ expectations and Azure best practices.
+• Their documented process and approach to evaluating and improving architectural
+best practices to remediate issues with migrated platforms or workloads that do not
+meet performance or cost expectations. 
+Evidence can be the same as the projects presented in earlier controls as long as they
+demonstrate the required control definition. 
+Required Evidence: The partner must provide evidence for all four (4) of the following service
+validation and testing scenarios, including validation and performance evaluation across a
+minimum of two (2) unique customer projects completed within the past twelve (12) months. 
+Each customer case does not have to include all four (4) scenarios, a single project may satisfy
+multiple scenarios. The documentation must indicate that the implemented service validation
+solution meets customer expectations, and it must include a sign-off from each customer.
+1. Migration of Infra (Windows Server) to Azure
+2. Migration of Linux-based applications to Azure
+3. Migration of Microsoft SQL to Azure (including Arc-enabled SQL MI) *
+4. Migration of MySQL, PostgreSQL, MariaDB or MongoDB database to Azure* 
+• Oracle migration to PostgreSQL, Cosmo DB or Azure SQL will qualify in scenarios three (3)
+& four (4).
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud.28 
+5.2 Post-deploymentDocumentation
+The partner must provide post-deployment operational documentation to show that their
+customers are successfully using the new service on Azure. It must:
+• Demonstrate how the partner’s documents, decisions, architectural designs, and
+procedures were implemented.
+• Demonstrate standard operating procedures for the business-as- usual operations team
+that describe “how to” scenarios.
+Required Evidence:
+The partner must provide operational evidence for all four (4) of the deployment scenarios
+across a minimum of two (2) unique customer projects completed within the past twelve (12)
+months. Each customer case does not have to include all four (4) scenarios, a single project
+may satisfy multiple scenarios. 
+The documentation must indicate that the implemented service validation solution meets
+customer expectations, and it must include a sign-off from each customer.
+1. Migration of Infra (Windows Server) to Azure
+2. Migration of Linux-based applications to Azure
+3. Migration of Microsoft SQL to Azure (including Arc-enabled SQL MI) *
+4. Migration of MySQL, PostgreSQL, MariaDB or MongoDB database to Azure* 
+• Oracle migration to PostgreSQL, Cosmo DB or Azure SQL will qualify in scenarios three (3)
+& four (4).
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud. 
+For pre-qualified partners only, Module B: Alternate audit using Windows and SQL for evidence with
+renewing partners. Microsoft will approve you for this checklist, using telemetry and analysis. This is
+not a self-nomination. Reach out to Azure Partner Specializations azureAS@microsoft.com  to confirm
+your qualification. 
+Alternate Pathway Audit: Infra & Database Migration to Azure checklist 
+1.0 Assess
+The partner must have a consistent approach for assessing customer requirements for the workload.
+Requirement29 
+1.1 Workload Assessment
+The partner must demonstrate how they assess each workload prior to migration to
+ensure that adequate pre-migration or pre-deployment planning and sizing were
+performed.
+The assessment must include mapping that shows the dependencies upstream from the resources
+that will be migrated. It must also show:
+• The infrastructure, data volumes and database sizes to be migrated.
+• The migration timeline and approach.
+• The migration risk assessment.
+• Backup and disaster recovery for existing workloads.
+• Licensing and cost management requirements.
+• Documentation of the customer’s existing identity implementation on Azure, gaps
+identification, and best practices recommendations.
+The partner must provide evidence for both of the scenarios below, across a minimum of two (2) unique
+customer migration projects, completed within the last twelve (12) months. 
+1. Migration of Windows Server-based applications to Azure
+2. Migration of Microsoft SQL databases to Azure (can include Arc-enabled SQL Managed Instance
+(MI) *
+Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud 
+Required Evidence: The partner should provide relevant design documents showing that the preceding
+items were reviewed for at least two (2) unique customers with Windows Server Applications and
+Microsoft SQL Server migration projects, completed within the past twelve (12) months. The partner
+must show that all assessment details were considered for these customers. 
+Assessments may be done manually or through an industry-accepted assessment tool.
+Accepted Documentation: Output from Assessment Tools such as: Azure Migrate, Movere, or other
+similar Third-party Tooling Reports, Assessment Checklists, Templates, Questionnaires and Project
+Plans.
+2.0 Design
+The partner has robust methodologies for designing the workload.
+Requirement
+2.1 Solution Design including Azure Landing Zone
+The partner must provide solution designs that show a consistent approach to addressing customer
+requirements that were captured from the Assessment phase.
+The partner must provide evidence for both of the following scenarios across a minimum of two
+(2) unique customer projects completed within the last twelve (12) months:
+• Migration of Windows Server-based applications to Azure
+• Migration of Microsoft SQL databases to Azure (can include Arc-enabled SQL Managed
+Instance (MI) *
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud.30 
+The partner must provide relevant solution design documents that show a consistent approach to
+addressing customer requirements that were captured in the Assessment phase. 
+The solution design must show all of the following:
+• A migration design or strategy that outlines which applications, databases, or
+database auxiliary components (reporting service, integration service) are in scope
+for the migration.
+• An outline of the migration method (rehost, refactor, or replatform) to be used for the
+application, database, database auxiliary components, and so on. It should show how the
+design addresses the workload dependencies that were demonstrated in the assessment, with
+appropriate mitigations.
+• The migration risk assessment and risk mitigation. The high-level migration sequence and
+estimated time to finish the migration. The validation of the successful migration completion. 
+Azure landing zone (ALZ): The environment that supports the referenced customer
+deployments should address each of the design areas below required below. If an item is not
+relevant, the partner must document the customer’s decision to deviate from applying
+best practices.
+Present evidence of:
+o Implementation of Identity & Access Management (IAM) and role-based access control
+(RBAC), data sovereignty and encryption, application security, and auditing.
+o Establishing a hub and spoke architecture or retrofitting the existing deployment to
+separate out the network components of a hub for optimal performance and security.
+o Showing resource and perimeter security, such as bastion hosts, network
+security groups and/or Azure Firewall, and/or virtual security and routing
+appliances with appropriate monitoring.
+o Using security products, such as Azure security services, Microsoft 365 security, Microsoft Defender for Cloud, or other security solutions, to secure access to the data.
+o Using governance tooling to support cost optimization across the environment.
+After estimating the initial cost, setting budgets and alerts at different scopes to
+proactively monitor the cost.
+o Using backup and recovery solutions to ensure data retention.
+o Meeting requirements for government regulatory compliance in the new environment,
+such as GDPR and HIPAA, and implementing them through multiple datacenter regions, as
+needed.
+o Implementing a monitoring solution to provide proactive remediation for the Azure
+environment, to integrate with the customer's existing monitoring tooling, if appropriate.
+o Showing that visualization and alerting considerations for solutions are in place, where
+appropriate.
+Acceptable Documentation: Project Plan, Functional Specifications, Solution Design Document,
+Architectural Diagram, Automated Tooling Reports, and Physical and Logical diagrams.31 
+2.2 Azure Well-Architected Review of Workloads
+The partner must demonstrate usage of the Azure Well-Architected Review on migrated
+applications. The Azure Well-Architected Review is designed to help partners evaluate your
+customers' workloads against the latest set of industry best practices. It provides actionable
+guidance to design and improve your customers' workloads. 
+The Review can be used to evaluate each workload against the pillars of the Azure Well-
+Architected Framework that matter to that workload.
+Unless otherwise specified, Reviews may be conducted before, during, or after deployment. 
+Required Evidence:
+The partner must provide exported results from the completed Well-Architected Review.
+Evidence for both of the two (2) following migration scenarios across a minimum of two (2)
+unique customer projects completed within the last twelve (12) months. Please indicate the
+customer’s name in evidence.
+1. Migration of Windows Server-based applications to Azure
+2. Migration of Microsoft SQL databases to Azure (can include Arc-enabled SQL Managed
+Instance (MI) *
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud.
+3.0 Deployment
+The partner has robust methodologies for deploying the workload.
+Requirement
+3.1 Infrastructure Migration Deployment
+The partner must provide evidence of their ability to implement an infrastructure migration of
+Windows Server to a production environment based on customer approved designs, from one
+(1) of the following Azure scenarios below:
+1. Move the application from an on-premises Windows Server to Azure infrastructure as
+a service (IaaS). *
+2. Move the application that is running on Windows Server from another public cloud
+platform to Azure IaaS. *
+* Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud
+Required Evidence: The projects shown for this control must be the same as in Control 2.1. The
+partner must provide evidence of their ability to implement a Windows server migration to a
+production environment from either of the above scenarios, based on customer approved designs,
+for a minimum of two (2) unique customers, completed within the past twelve (12) months. The
+documentation must cover the entire sequence of the project, including design and production
+deployment, and must include at least two (2) of the following evidence items for each customer
+project, totaling four (4) evidence artifacts:
+• Signed Statements of Work (SOWs) for all projects
+• Solution Design Documents for all projects
+• The Project Plan and Migration and Deployment sequence32 
+• Architecture Diagrams
+• High-level Designs (HLDs) and Low-level Designs (LLDs)
+• As-built Documentation
+For more information see Azure Arc as a landing zone accelerator.
+3.2 Database Migrations
+The partner must provide evidence of their ability to implement an SQL Server Database migration
+to a production environment, based on customer-approved designs from at least two (2) unique
+customers, providing evidence for both of the following migration scenarios:
+Scenario 1
+1. Rehosting from SQL Server on-premises or from another public cloud to SQL IaaS on Azure.
+Scenario 2
+2.  Replatforming from SQL Server on-premises or from another public cloud to SQL platform as
+a service (PaaS) on Azure (SQL Database or SQL Managed Instance). *
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud 
+Required Evidence:
+The projects shown for this control must be the same as in Control 2.1. The partner must provide
+evidence of their ability to implement an SQL Server Database migration to a production
+environment, based on customer-approved designs for two (2) unique customers using both
+of the above migration scenarios. The documentation must align with the previous solution
+design requirements. Each of the database migration projects must have been implemented
+within the past twelve (12) months. To cover the entire sequence, including design and
+production deployment, the documentation must include at least two (2) of the following
+items for each customer project, totaling four (4) evidence artifacts required:
+o Signed Statements of Work (SOWs) for the projects
+o Solution Design Documents for all projects
+o The Project Plan with Migration and Deployment sequence
+o Architecture Diagrams
+o High-level Designs (HLDs) and Low-level Designs (LLDs)
+o As-built Documentation
+3.3 Migration Tools
+The partner must demonstrate the specific products, tools, or scripts that were used for the
+assessment and migration of customer workloads. The partner must demonstrate the customer
+accepted the migration approach by showing confirmation from the customer. 
+Required Evidence:
+Partners must provide documentation and prove customer migration tool experience with at
+least one (1) of the following options through a demonstration of tools using (A, B, or C):
+A. Show experience with using native Azure migration tools by providing a step-by-
+step demonstration that they can effectively use at least four (4) of the following
+tools:33 
+• Azure Migrate Server Assessment for VMware and Hyper-V
+• Data Migration Assistant (DMA)
+• SQL Server Migration Assistant (SSMA)
+• Azure Migrate Server migration VMware and Hyper-V (use of Azure Site Recovery is also
+accepted)
+• Azure Database Migration Service
+• Storage Migration Service 
+B. Show experience with third-party tools that integrate with Azure Migrate by demonstrating a
+customer project where assessment data is available from Azure Migrate or available to them
+offline and they perform the migration by using third-party tooling.
+C. Show experience with all other third-party tools by referencing the tools used in a project plan
+for successfully migrating a customer to Azure, or by providing a spreadsheet with output from
+and snapshots of results in an output file from the tools that they used.
+Tools may include but are not limited to:
+• CloudSphere
+• Carbonite
+• PlateSpin
+• CloudEndure
+• River Meadow
+• Cloudamize
+• Zerto
+• StratoZone
+3.4 Automated Deployment and Provisioning Tools
+The partner must demonstrate specific products, tools, or scripts that they used for automated
+provisioning and deprovisioning of infrastructure and database migrations, including tools for
+continuous integration and continuous delivery (CI/CD). 
+Required Evidence:
+Include Demonstrations of Products, Tools, or Scripts used for:
+• Automated deployment, including creation of workload deployment templates.
+• Cloud service provisioning and deprovisioning, including viewing of service template,
+packages, or runbooks that were used in the deployment of customers’ Azure
+environments.
+• Automation of routine operations, or automated scale-out. 
+The partner must provide evidence of tools, products, or scripts for either a completed
+Windows Server or SQL Server migration project for two (2) unique customer projects
+completed within the last twelve (12) months.34 
+4.0 Review and Release for Operations
+The partner has robust methodologies for transitioning the workload.
+Requirement
+4.1 Service Validation and Testing
+The partner must validate the deployment, including:
+• Their documented process and approach to testing and evaluating the performance
+of all applications against customers’ expectations and Azure best practices.
+• Their documented process and approach to evaluating and improving architectural best
+practices to remediate issues with migrated platforms or workloads that do not meet
+performance or cost expectations. 
+Required Evidence: The partner must provide evidence of both of the following service
+validation and testing scenarios including validation and performance evaluation across a
+minimum of two (2) unique customer projects completed within the past twelve (12) months.
+The documentation must indicate that the implemented service validation solution meets
+customer expectations, and it must include a sign-off from each customer.
+1. Migration of Windows Server-based applications to Azure
+2. Migration of Microsoft SQL databases to Azure (including Arc-enabled SQL MI) *
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud. 
+Evidence can be the same as the projects presented in earlier controls as long as they
+demonstrate the required control definition.35 
+4.2 Post-deploymentDocumentation
+The partner must provide post-deployment operational documentation to show that their
+customers are successfully using the new service on Azure. It must:
+• Demonstrate how the partner’s documents, decisions, architectural designs, and
+procedures were implemented.
+• Demonstrate standard operating procedures for the business-as-usual
+operations team that describe “how to” scenarios.
+Required Evidence:
+The partner must provide evidence for two (2) completed Windows Server and SQL Server
+migration demonstrating both scenarios below across two (2) unique customers completed within
+the past twelve (12) months.
+1. Migration of Windows Server-based applications to Azure
+2. Migration of Microsoft SQL databases to Azure (can include Arc-enabled SQL Managed
+Instance (MI) * 
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud.36 
+Azure Specializations Partner FAQ 
+Questions regarding the Azure Partner program specializations, the current checklists and pre-
+qualifications for partners can usually be answered by visiting Microsoft Azure Partner Specializations 
+Questions on the audit checklists and program can be sent to the Azure Partner Specializations help alias.
+<mailto:AzureAS@microsoft.com> 
+If you have questions that have not been answered, please go to Partner Center support to create a ticket
+with our Frontline team.

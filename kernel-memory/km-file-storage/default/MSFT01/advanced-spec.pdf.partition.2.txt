@@ -1,0 +1,70 @@
+Payment terms and conditions ......................................................................................................................................... 7
+Audit blueprint ...................................................................................................................................................................... 7
+Audit roles ............................................................................................................................................................................... 8
+Audit Process: High-level overview .................................................................................................................................. 8
+Audit Process: Details .......................................................................................................................................................... 9
+Audit preparation best practices and resources .......................................................................................................... 11
+Audit checklists .................................................................................................................................................................... 12
+Partner FAQ ..........................................................................................................................................................................366 
+Infra and Database Migration to Microsoft Azure Specialization Program
+Overview
+This document defines the requirements to earn the Infra and Database Migration to Microsoft Azure
+Specialization. It also provides further requirements, guidelines, and an audit checklist for the associated audit
+that is required to earn this Azure specialization. 
+The Infra and Database Migration to Microsoft Azure Specialization is designed for partners to demonstrate
+deep knowledge, experience, and success in planning and migrating their customer’s infrastructure and
+database workloads to Azure. Partners with demonstrated expertise across both Windows Server and SQL
+Server and across Linux and Open-Source database migration to Microsoft Azure may apply.
+The Infra and Database Migration to Microsoft Azure Specialization allows partners with an active Solutions
+Partner for Infrastructure designation or Solutions Partner for Data & AI designation to demonstrate their
+capabilities, build stronger connections with customers and differentiate their organizations in Infrastructure
+and Database migration. 
+Partners who meet the comprehensive requirements to earn an Azure Specialization, receive a customer-
+facing label they can display, badge and a business profile in Microsoft AppSource partner gallery.
+In AppSource, access to specific Microsoft go-to-market programs is prioritized in customer searches
+to help drive new business. Partners can also generate a certified letter from Microsoft that verifies
+the Azure specializations that they have earned. For these reasons, this opportunity is available only
+to partners that meet additional, stringent requirements. 
+Please note: This specialization requires 3rd party certifications to proceed to audit unless you are approved
+for the alternate Module B pathway option. These certifications are found in Module B Control 1.1.
+How to apply
+Only a Microsoft AI Cloud Account Administrator or a Global Administrator of an organization’s Microsoft
+partner account can submit an application for the Azure specialization on behalf of the organization.
+Partners with the appropriate role and access permissions can apply. To do so, they sign into their Partner
+Center account. On the left pane, select Azure under the Specialization section. Toggle to the specialization that
+you wish to apply for by using the drop-down menu at the top of the page.7 
+NDAs for the audit 
+Auditors comply with requests from partners to sign a direct NDA. All ISSI auditors are under a
+nondisclosure agreement (NDA) with Microsoft. If a partner would like an NDA to be signed directly
+between ISSI and the partner organization for purposes of the audit, one can be provided by the partner
+during the audit scheduling process to ISSI. ISSI will sign and return it. 
+Payment terms and conditions
+Pricing schedule as of July 1, 2024
+Module B Audit: $2,400 USD 
+Module A+B Audits: $3,600 USD
+A Gap Review Meeting is included with each Module audit.
+Payment terms 
+The cost of the audit is payable in full to the audit company and must be settled before the audit begins.
+Failure to pay will result in cancellation of the audit.
+Program status term
+When a partner meets all prerequisite requirements shown in Partner Center and Microsoft receives a valid
+Pass Report from the third-party audit company, the partner will be awarded the Infra and Database
+Migration Azure Specialization for one (1) calendar year.
+The status and the Infra and Database Migration Azure Specialization label can be used only by the
+organization (determined by Partner Center MPNPGA ID account) and any associated locations
+(determined by MPN PLA ID) that met all requirements and passed the audit. Any subsidiary or affiliated
+organizations represented by separate Partner Center accounts (MPN PGA ID) may not advertise the status
+or display the associated label.
+Audit blueprint
+Audits are evidence-based. During the audit, partners will be expected to present evidence they have
+met the specific requirements on the checklist. This involves providing the auditor with access to live
+demonstrations, documents, and SME personnel to demonstrate compliance with checklist requirements. The audit checklist will be updated to stay current with technology and market changes, and the
+audit is conducted by an independent, third-party auditor.
+The following is included in the audit blueprint:
+1. Audit Roles
+2. Audit Process: High level overview
+3. Audit Process: Details
+4. Audit Best Practices and Resources8 
+Audit roles
+Role of the auditor 
+The auditor reviews submitted evidence and objectively assesses whether the evidence provided by the partner

@@ -1,0 +1,62 @@
+four (4) evidence artifacts:
+• Signed Statements of Work (SOWs) for all projects
+• Solution Design Documents for all projects
+• The Project Plan and Migration and Deployment sequence
+• Architecture Diagrams
+• High-level Designs (HLDs) and Low-level Designs (LLDs)
+• As-built Documentation
+4.2 Database Migrations
+The partner must provide evidence of their ability to migrate databases to Azure with customer
+approved designs choosing one (1) of the options for deployment from each of the following
+two (2) scenario lists.
+Scenario 1: Migrations to AZURE SQL
+o Rehosting from SQL Server on-premises or from another public cloud to SQL IaaS on Azure.
+o Replatforming from SQL Server on-premises or from another public cloud to SQL
+platform as a service (PaaS) on Azure (SQL Database or SQL Managed Instance, or
+Azure Arc). *
+o Replatform from Oracle to Azure SQL IaaS or PaaS.
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud 
+Scenario 2: Migrations to Azure Open-Source Databases and Cosmos DB
+o Replatform Oracle to Azure Database for PostgreSQL
+o Replatform or rehost PostgreSQL to Azure Database for PostgreSQL*
+o Replatform or rehost MariaDB to Azure SQL Database for MariaDB
+o Replatform or rehost MySQL to Azure SQL Database for MySQL
+o Replatform or rehost Cassandra to Azure Cosmos DB or Azure Managed Instance for
+Apache Cassandra
+o Replatform or rehost MongoDB to Azure Cosmos DB
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud 
+Required Evidence:
+The projects shown for this control must be the same as in Control 3.1. The partner must
+provide evidence of their ability to migrate databases to Azure with customer approved
+designs, choosing one (1) of the options for deployment from each of the above two (2)
+scenario lists for a minimum of two (2) unique customers. To cover the entire sequence,
+including design and production deployment, the documentation must include at least two
+(2) of the following items for each customer project, totaling four (4) evidence artifacts
+required:25 
+o Signed Statements of Work (SOWs) for the projects
+o Solution Design Documents for all projects
+o The Project Plan with Migration and Deployment sequence
+o Architecture Diagrams
+o High-level Designs (HLDs) and Low-level Designs (LLDs)
+o As built documentation
+4.3 Migration Tools
+The partner must demonstrate the specific products, tools, or scripts that were used for the
+assessment and migration of customer workloads. The partner must demonstrate the customer
+accepted the migration approach by showing confirmation from the customer. 
+Required Evidence:
+Partners must provide documentation and prove customer migration tool experience with at
+least one (1) of the following options through a demonstration of tools using (A, B, or C):
+A. Show experience with using native Azure migration tools by providing a step-by-
+step demonstration that they can effectively use at least four (4) of the following
+tools:
+• Azure Migrate Server Assessment for VMware and Hyper-V
+• Data Migration Assistant (DMA)
+• SQL Server Migration Assistant (SSMA)
+• Azure Migrate Server Migration VMware and Hyper-V (use of Azure Site Recovery
+is also accepted)
+• Azure Database Migration Service
+• Storage Migration Service B. Show experience with third-party tools that integrate with Azure Migrate by demonstrating a
+customer project where assessment data is available from Azure Migrate or available to them
+offline and they perform the migration by using third-party tooling.
+C. Show experience with all other third-party tools by referencing the tools used in a project plan
+for successfully migrating a customer to Azure, or by providing a spreadsheet with output from

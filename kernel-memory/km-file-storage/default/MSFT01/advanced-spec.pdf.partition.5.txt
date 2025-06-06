@@ -1,0 +1,56 @@
+conference platform of choice. The meeting must take place within fifteen (15) calendar days of when the
+Gap Report was sent, and it may last no longer than one (1) hour. During the Gap Review Meeting the
+partner must present evidence that addresses any and all Open Action Items.
+The Gap Review Meeting can produce either of two (2) outcomes:
+1. The partner resolves all Open Action Items.
+• The auditor confirms that the partner has provided the required evidence.
+• The auditor provides a Final Report for the partner.
+• The auditor notifies Microsoft about the outcome (subject to Auditor Terms and Conditions). 
+2. The partner does not resolve all Open Action Items.
+• The auditor presents a brief synopsis of the audit, including missed items.
+• The partner receives a Final Report that details the missed items.
+• The auditor notifies Microsoft about the outcome (subject to Audit Terms and Conditions). 
+If the partner is still unable to provide satisfactory evidence to the auditor during their Gap Review Meeting,
+the partner will be deemed to have failed the audit. Partners that still want to earn this Azure specialization will
+need to begin the application process again.11 
+Completion of the audit
+The audit process concludes when ISSI issues the Final Report after the audit or after the Gap Review. Partners will
+receive a Pass or No Pass result upon completion of the audit process. 
+A Pass result satisfies the audit requirement for this Azure specialization for two (2) years. A “No Pass” result
+is generated when a partner fails or withdraws from the audit. When a No Pass result is entered into Partner
+Center, you will see your status as “Audit Failed” in your dashboard. This status will reset within one week to
+“Not Enrolled,” allowing you to reapply. Contact Partner Center Support if needed. 
+Audit preparation best practices and resources
+Partners should ensure that the audit checklist has been thoroughly read in advance of the audit.
+• Partners should ensure that all partner stakeholders involved in the audit have a copy of the audit
+checklist and are confirmed for the date and time duration of the audit
+• A lead stakeholder who knows the entire process must be available for the length of the audit
+• Partners should confirm that they have access granted for the auditors, and files and tools are readily
+available during the audit exhibits 
+Stakeholder SME attendance in the audit 
+Stakeholders who can best address the relevant section should be available for the audit. However, please
+make sure that a stakeholder who knows the entire process is available for the duration of the audit.
+Auditors often probe for more information
+The auditor probes for more information to ensure that mature and repeatable processes are in place with the
+partner and that they are established, effective, and efficient. The auditor is looking to see how a document
+was created, where it is located, and what source materials were used to create the document. By probing for
+more information, the auditor evaluates and validates that the partner is operating at an advanced level. This
+can only be done by questioning during the audit. This approach is explained to the partner during the
+opening meeting.
+Acceptable evidence: Excerpts, exhibit file formats and use of PowerPoints 
+PowerPoints are a common and accepted format for presenting a high-level overview of a partner’s systems.
+However, please also be prepared to present live demonstrations from source files so that the auditor may
+confirm that the systems in place are mature and effective. Excerpts can be used to communicate the high-
+level overview, however, as sole evidence these are not acceptable. Source documents must also be
+presented.12 
+Additional resources: Two optional audit preparation offers from the auditing firm *
+To ensure objectivity, consulting auditors and auditors conducting the actual audits are different ISSI auditors.
+1. Partners can participate in a paid optional, one (1)-hour, live Audit Process & Controls Overview
+session provided by ISSI. This session provides a high-level overview of key aspects of the Azure
+specialization audit process. Partners work directly with ISSI to schedule this remote session (via online
+web conference). For more information about this session, see Azure Specialization - Audit Process and
+Controls Overview
+2. ISSI also provides optional extensive, paid, in-depth consulting engagements to help partners prepare for their Azure specialization audit. Partners work directly with ISSI to schedule this remote session (via online web
+conference). For more information about this type of in-depth engagement, see Azure Specialization
+Consulting Offer https://issi-inc.com/az-advspeconsulting/
+*Please note that there is a cost associated with both ISSI’s Consulting and the Process and Controls Overview. These can be

@@ -1,0 +1,77 @@
+validates that the partner has adopted robust processes to ensure customer success across all phases of
+deploying Infra and Database Migration solutions, from the assessment phase to design, pilot,
+implementation, and post-implementation phases. Review the following audit checklist tables for more
+details about each control phase and to learn how the partner will be evaluated for an audit. The same
+customers may be used for Module A & B. The estimated length of both modules together is eight (8)
+hours.
+Alternate Pathway Note: You may qualify for an alternate audit checklist using alternate evidence scenarios if
+Microsoft communicates this is available to you. To inquire ask at Azure Partner Specializations
+<azureAS@microsoft.com>
+Module A: Cloud Foundation
+1. Strategy
+2. Plan
+3. Environment readiness and Azure landing zone
+4. Governance
+5. Manage 
+Module B: Infra and Database Migration to Microsoft Azure workload 
+1. Third- party certifications
+2. Assess
+3. Design
+4. Deployment
+5. Review and Release for operations 
+To pass the audit, the partner must complete all audit checklist items.
+Module A, Cloud Foundation is required for multiple Azure specializations. To complete Module A: Cloud
+Foundation, the partner needs to pass all controls in Module A by providing the specified evidence.
+Alternatively, the partner may present evidence of a previous pass result from Module A or from another
+Azure specialization audit conducted on V2.0 or later.14 
+Module B, The Infra and Database Migration to Microsoft Azure Specialization workload. Each control has one
+(1) or more requirements and requires evidence the partner must provide for the auditor. Both the
+requirements and the required evidence are defined in the following tables. For some controls, a reference
+customer or customer evidence is the documentation requested.
+Each customer case does not have to include all four (4) scenarios. A single project may satisfy multiple
+scenarios.
+1. Migration of Infra (Windows Server) Applications to Azure
+2. Migration of Linux-based applications to Azure
+3. Migration of Microsoft SQL to Azure (can include Arc-enabled SQL Managed Instance (MI)
+4. Migration of MySQL, PostgreSQL, MariaDB or MongoDB database to Azure
+For Module B, an alternate pathway:
+Each customer case does not have to include all scenarios. A single project may satisfy both scenarios. 
+1. Migration of Infra (Windows Server) Applications to Azure
+2. Migration of Microsoft SQL databases to Azure (can include Arc-enabled SQL Managed Instance (MI) 
+For audit evidence relating to customer engagements, the partner can use a customer case study and reference it
+multiple times. The same or different customers can be used for Modules A & B if they demonstrate requirements.15 
+Module A: Cloud Foundation control checklist 
+1.0 Strategy and FinOps
+The partner must have a defined approach for helping their customer evaluate and define a cloud
+adoption strategy beyond an individual asset (app, VM, or data).
+Requirement
+1.1 Cloud Adoption Business Strategy
+The partner must have a defined process that captures the data-driven business strategies
+being used to guide customer decisions. The process should include, at minimum, the
+following:
+1. A strategy review that captures the customer’s business needs and the problems the
+customer is trying to solve.
+2. Personalized recommendations from the partner for the customers’ business
+strategies.
+Required evidence:
+A Report, Presentation, or Documented Plan that captures strategic inputs and decisions
+for two (2) unique customers, and that demonstrate the Azure Cloud Adoption Business
+decisions for the Azure Cloud Framework, by using the Cloud Adoption Strategy Evaluator
+(CASE) assessment output. 
+These projects should have been completed in the past twelve (12) months. The projects
+must be aligned with the above-described processes 1 and 2 and highlight both customer
+Business and FinOps (Financial) outcomes. 
+For an example, see the Cloud Adoption Strategy Evaluator,  Strategy and plan templates
+in the Cloud Adoption Framework for Azure, and especially the FinOps Assessment best
+practices in Build. 
+2.0 Plan
+The partner must have a consistent approach to planning for cloud adoption that is based on the strategy
+outlined in the preceding section.
+Requirement16 
+2.1 Cloud Adoption Plan
+The partner must have a process and approach for planning and tracking the
+completion of cloud adoption projects.
+Required evidence: The partner must provide evidence of their capability for process and approach to
+planning and completion with examples of two (2) unique customer projects that were
+completed in the past twelve (12) months.
+Acceptable evidence will include at least one (1) of the following for each customer:

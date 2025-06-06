@@ -1,0 +1,78 @@
+Azure landing zone (ALZ): The environment that supports the referenced customer
+deployments should address each of the design areas below required below. If an item is not
+relevant, the partner must document the customer’s decision to deviate from applying best
+practices.22 
+Present evidence of:
+o Implementation of Identity & Access Management (IAM) and role-based access control
+(RBAC), data sovereignty and encryption, application security, and auditing.
+o Establishing a hub and spoke architecture or retrofitting the existing deployment
+to separate out the network components of a hub for optimal performance and
+security.
+o Showing resource and perimeter security, such as bastion hosts, network
+security groups and/or Azure Firewall, and/or virtual security and routing
+appliances with appropriate monitoring.
+o Using security products, such as Azure security services, Microsoft 365 security,
+Microsoft Defender for Cloud, or other security solutions, to secure access to
+the data.
+o Using governance tooling to support cost optimization across the environment.
+After estimating the initial cost, setting budgets and alerts at different scopes
+to proactively monitor the cost.
+o Using backup and recovery solutions to ensure data retention.
+o Meeting requirements for government regulatory compliance in the new
+environment, such as GDPR and HIPAA, and implementing them through
+multiple datacenter regions, as needed.
+o Implementing a monitoring solution to provide proactive remediation for the
+Azure environment, to integrate with the customer's existing monitoring
+tooling, if appropriate.
+o Showing that visualization and alerting considerations for solutions are in
+place, where appropriate. 
+Acceptable Documentation: Project Plan, Functional Specifications, Solution Design
+Document, Architectural Diagram, Automated Tooling Reports, and Physical and Logical
+diagrams.23 
+3.2 Azure Well-Architected Review of Workloads
+The partner must demonstrate usage of the Azure Well-Architected Review on migrated
+applications. The Azure Well-Architected Review is designed to help partners evaluate your
+customers' workloads against the latest set of industry best practices. It provides actionable
+guidance to design and improve your customers' workloads.
+The Review can be used to evaluate each workload against the pillars of the Azure Well-
+Architected Framework that matter to that workload.
+Unless otherwise specified, Reviews may be conducted before, during, or after deployment. 
+Required Evidence: The partner must provide exported results from the completed Well –
+Architected Review. Evidence for all four (4) of the following migration scenarios across a
+minimum of two (2) unique customer projects completed within the past twelve (12) months.
+Each customer case does not have to include all four (4) scenarios. A single project may
+satisfy multiple scenarios. Please indicate the customer’s name in evidence.
+1. Migration of Infra (Windows Server) to Azure
+2. Migration of Linux-based applications to Azure
+3. Migration of Microsoft SQL to Azure (can include Arc-enabled SQL Managed
+Instance (MI)*
+4. Migration of MySQL, PostgreSQL, MariaDB or MongoDB database to Azure*
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud 
+• Oracle migration to PostgreSQL, Cosmo DB or Azure SQL will qualify in scenarios three
+(3) & four (4).
+4.0 Deployment
+The partner has robust methodologies for deploying the workload.
+Requirement
+4.1 Infrastructure Migration Deployment
+The partner must provide evidence of their ability to migrate infrastructure to a production
+environment based on customer approved designs, from one (1) of the following Azure
+Infrastructure scenarios:
+• Move the application from an on-premises Windows/Linux Server to Azure
+infrastructure as a service (IaaS). (*)
+• Move the application that is running on Windows Server/Linux from
+another public cloud platform to Azure IaaS. (*) 
+* Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud24 
+For more information see Azure Arc as a landing zone accelerator. 
+Required Evidence: The projects shown for this control must be the same as in Control 3.1
+The partner must provide evidence of their ability to implement an infrastructure migration to a
+production environment, based on customer-approved designs for a minimum of two (2)
+unique customers using one (1) of the above migration scenarios. The documentation must
+include at least two (2) of the following evidence items for each customer project, totaling four (4) evidence artifacts:
+• Signed Statements of Work (SOWs) for all projects
+• Solution Design Documents for all projects
+• The Project Plan and Migration and Deployment sequence
+• Architecture Diagrams
+• High-level Designs (HLDs) and Low-level Designs (LLDs)
+• As-built Documentation
+4.2 Database Migrations
+The partner must provide evidence of their ability to migrate databases to Azure with customer

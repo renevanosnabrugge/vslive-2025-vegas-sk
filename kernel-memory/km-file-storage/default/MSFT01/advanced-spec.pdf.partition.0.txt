@@ -1,0 +1,54 @@
+2 
+Infrastructure and Database Migration to Microsoft Azure
+Specialization 
+Program  guide, audit checklist, and FAQ 
+V1.5 
+Valid August 12 – December 31, 20242 
+Program updates and announcements 
+Module B – June 12, 2024
+The V1.5 checklist is required August 12, 2024. The following are control changes:
+• Control 1.1, Certifications: Partners holding the PostgreSQL Professional Certification (V13) will be able
+to meet this control evidence until Nov 2025, when Microsoft will no longer accept this certification.
+This is replaced by PostgreSQL Advanced v16 Certification V2.
+• Control 5.2 Post Deployment Documentation has updated evidence requirements for clarity.
+• Partners must continue to check with Azure Partner Specializations <azureAS@microsoft.com> to
+qualify for the alternate pathway checklist.
+Module A – June 12, 2024
+The new Module A checklist is available for preview and will be required August 12, 2024.
+These are the changes made to the controls:
+• Control 1.1 Cloud Adoption Business Strategy now refers to FinOps rather than Economics and has provided an
+updated template link for a FinOps Assessment
+• Control 2.1 Cloud Adoption Plan has provided updated evidence clarification
+• Control 3.1 Repeatable Deployment has provided updated control clarification and provided updated
+links to templates mentioned
+• Control 3.1 Repeatable Deployment – A special Evidence Note for Analytics on Azure specialization
+deployments and Data Warehouse Migration to Azure specialization deployments only. If no Identity
+or Networking components are deployed in the Azure Landing Zone, a documented focus on Resource
+organization attributes is sufficient to pass this control
+• Control 4.1 Governance Tooling has provided an updated link to current Governance tools
+• Control 5.1 Operations Management Tooling for Analytics on Azure specialization deployments and Data
+Warehouse Migration to Azure specialization deployments only: If no Operations Management Tooling is
+deployed, this control may be skipped
+Please note the price schedule July 1, 2024
+Module B – Mar 13, 2024
+The V1.4 checklist is released. For qualified, renewing partners only, the checklist has been updated to
+include an alternate evidence path in addition to the core audit, that includes Windows and SQL.
+Microsoft will alert you if you qualify for this checklist version, this is not a self-nomination process.
+• Both checklists now require 2 unique customers for demonstrated evidence. 
+Module B – Jan 1, 2024
+The V1.3 checklist is now published and required. Changes from V1.21 include Controls 2.1, 3.1, 3.2,
+4.4, 5.1, and 5.2. In these:
+• Oracle can be used in migration scenarios three (3) and four (4) for the listed controls as the
+“source” database and evidence of the partner’s ability to migrate a customer to the Azure DB
+platform. Oracle migration to PostgreSQL, Cosmo DB or Azure SQL will qualify for these scenarios.3 
+Module B – Dec 1, 2023
+The V1.3 Infra and DB Migration to Azure checklist was made available for partners in preview. Two (2)
+customer projects rather than three (3) are now required. All four (4) specific migration scenarios must be
+demonstrated. This will be required Jan 1, 2024. 
+Module A – Oct 1, 2023
+Azure Active Directory has been renamed Microsoft Entra ID 
+Module B - October 24, 2023 Control 1.1 Certifications. The control was clarified to convey that the partner must be a member of either
+the Red Hat Business Partner Program or the SUSE One Partner Program, or they must have two (2) full-time
+employees who have at least one (1) of the qualifying certifications verified by certifying agencies. 
+August 28, 2023
+The Microsoft Cloud Partner Program changed its name to the Microsoft AI Cloud Partner Program,

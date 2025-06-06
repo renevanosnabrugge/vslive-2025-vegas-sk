@@ -1,0 +1,1087 @@
+{
+  "index": "default",
+  "document_id": "MSFT01",
+  "execution_id": "6eed7057674c4787bf9e4bee4d5bc6fa",
+  "steps": [
+    "extract",
+    "partition",
+    "gen_embeddings",
+    "save_records"
+  ],
+  "remaining_steps": [
+    "gen_embeddings",
+    "save_records"
+  ],
+  "completed_steps": [
+    "extract",
+    "partition"
+  ],
+  "tags": {},
+  "creation": "2025-06-06T19:06:19.1804658+00:00",
+  "last_update": "2025-06-06T19:06:24.7627033+00:00",
+  "files": [
+    {
+      "id": "497cdaed59a04d1097a19f0f524b5cde",
+      "name": "advanced-spec.pdf",
+      "size": 613036,
+      "mime_type": "application/pdf",
+      "artifact_type": "Undefined",
+      "partition_number": 0,
+      "section_number": 0,
+      "tags": {},
+      "processed_by": [
+        "extract"
+      ],
+      "generated_files": {
+        "advanced-spec.pdf.extract.txt": {
+          "id": "c75ba28d831245da84e463942b32710c",
+          "name": "advanced-spec.pdf.extract.txt",
+          "size": 73265,
+          "mime_type": "text/plain",
+          "artifact_type": "ExtractedText",
+          "partition_number": 0,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "",
+          "processed_by": [
+            "extract",
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.extract.json": {
+          "id": "29c44823f0544a52a67af2cbb97cc4a8",
+          "name": "advanced-spec.pdf.extract.json",
+          "size": 73265,
+          "mime_type": "text/plain",
+          "artifact_type": "ExtractedContent",
+          "partition_number": 0,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "",
+          "processed_by": [
+            "extract"
+          ]
+        },
+        "advanced-spec.pdf.partition.0.txt": {
+          "id": "4484f56e9e054d23b0a943efb29937f6",
+          "name": "advanced-spec.pdf.partition.0.txt",
+          "size": 3743,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 0,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "cdf8aa48a1f392e0d53ca8654cab94f5ae7f58c7f4e0f450f85f5ef254f1296e",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.1.txt": {
+          "id": "c0188640b68f4b10aff73ee13d7e8cb9",
+          "name": "advanced-spec.pdf.partition.1.txt",
+          "size": 4868,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 1,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "2f9aa7a26f2047092487bd4b17576adb1492afb50f8869e664946df701e367d0",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.2.txt": {
+          "id": "6bb8e1fb74324e6f9268c4611d31011b",
+          "name": "advanced-spec.pdf.partition.2.txt",
+          "size": 6074,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 2,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "601ae7da09f6f3922849fda03f72369a735f133f13f426eafc1c24fdbc0e952c",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.3.txt": {
+          "id": "3c0110fc461b42b498838f32127d33e6",
+          "name": "advanced-spec.pdf.partition.3.txt",
+          "size": 3803,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 3,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "addc5cef6f26c6d91ea2a09271bd99b6e66eb96f4a64bbd7f225f95a3fc9ffa7",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.4.txt": {
+          "id": "4786b32aac324656b1ddbed9e0236580",
+          "name": "advanced-spec.pdf.partition.4.txt",
+          "size": 3677,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 4,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "755e17b5e91a2268242f218fb9f71517422557337dccfe1f61d35ce5f469b7d9",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.5.txt": {
+          "id": "f92466c374544472be96275e978cfbd3",
+          "name": "advanced-spec.pdf.partition.5.txt",
+          "size": 4871,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 5,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "28724c47026bad7e35c5621886c860ac22bbe2aa9be4da296263664227d5e451",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.6.txt": {
+          "id": "45ca7b8f7f864a458dcb0d3c5251186f",
+          "name": "advanced-spec.pdf.partition.6.txt",
+          "size": 3964,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 6,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "f33a1f2fda81a9dd81ce657ce79d1694f70a0aab2c38a7761626132c7a80f100",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.7.txt": {
+          "id": "22a0cceb45eb4c2493cf577876046596",
+          "name": "advanced-spec.pdf.partition.7.txt",
+          "size": 4768,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 7,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "a6292ccabdb5cb1f91fd9b02559611f3b9df60686191252508d3191d44cdd56d",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.8.txt": {
+          "id": "1890c4fcd53144a6bc3aa2f8e9c08fa0",
+          "name": "advanced-spec.pdf.partition.8.txt",
+          "size": 4829,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 8,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "8758fd057ba98a08c5d944ff1f3edbdd48e1f4f5b06e379d284e8e96b1bdfded",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.9.txt": {
+          "id": "c323b9e80265418ab183faf8f266fff9",
+          "name": "advanced-spec.pdf.partition.9.txt",
+          "size": 4891,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 9,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "eec22924f73816330a2c2a20919c2f05b3b48be8c3c1c2d33b386afd1979c24e",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.10.txt": {
+          "id": "3b5cc107e30a4a28b930b3fb48887101",
+          "name": "advanced-spec.pdf.partition.10.txt",
+          "size": 3638,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 10,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "4d9ac6e3a5a5c205b2016eeca83f28b1081d5db7722fdbc763927ba64b5a8d8a",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.11.txt": {
+          "id": "dc2ccc4b8cb2463d9310fa37a2b1595a",
+          "name": "advanced-spec.pdf.partition.11.txt",
+          "size": 4993,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 11,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "7ee326df2189d3ff4cd1907377526045ab3b9797a55e42977ea65c3d2b8ee57c",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.12.txt": {
+          "id": "5eaea2bbd26e4e329f0f2129ef33a56a",
+          "name": "advanced-spec.pdf.partition.12.txt",
+          "size": 3758,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 12,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "690ee04b463e1d8b4c0e086df5fa136bad15c936b911bc5843779106bae07db9",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.13.txt": {
+          "id": "fc794fe45f25424d88faa90257c1b093",
+          "name": "advanced-spec.pdf.partition.13.txt",
+          "size": 3716,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 13,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "074de9f979ac28f1e548ebd558be64daa2d870f837eebc7a2924413af8eedeee",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.14.txt": {
+          "id": "c2451a08b19c4296a01a39e8e2ef6b3e",
+          "name": "advanced-spec.pdf.partition.14.txt",
+          "size": 4780,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 14,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "2dae09df5c0a164c84b459eb1acbd7ebf662f3674ef489bdecf6bb31b1599ae2",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.15.txt": {
+          "id": "a080ff8153ee403b85405276e149c2a3",
+          "name": "advanced-spec.pdf.partition.15.txt",
+          "size": 5007,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 15,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "df76d61c0aa9623834d8d1d1db4f99187b79c1e82f185a9e788a6546cd7e328a",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.16.txt": {
+          "id": "2b7a8a4ae0a144be925e16c451a3ec6e",
+          "name": "advanced-spec.pdf.partition.16.txt",
+          "size": 3729,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 16,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "ae3ee918a644b50360337ada1b7b43e94442146f724ce82d69d155d6e88952cc",
+          "processed_by": [
+            "partition"
+          ]
+        },
+        "advanced-spec.pdf.partition.17.txt": {
+          "id": "b3bed4ac0e734f668ee26025ffed18e7",
+          "name": "advanced-spec.pdf.partition.17.txt",
+          "size": 4536,
+          "mime_type": "text/plain",
+          "artifact_type": "TextPartition",
+          "partition_number": 17,
+          "section_number": 0,
+          "tags": {},
+          "parent_id": "497cdaed59a04d1097a19f0f524b5cde",
+          "source_partition_id": "",
+          "content_sha256": "9b83a7ec87ee4fbfc7c4ed90d5e7490a768fff6b0c6895dbe46dfea5474768de",
+          "processed_by": [
+            "partition"
+          ]
+        }
+      }
+    }
+  ],
+  "args": {},
+  "previous_executions_to_purge": [
+    {
+      "index": "default",
+      "document_id": "MSFT01",
+      "execution_id": "8fd2f02044944664861c554c1b80e07a",
+      "steps": [
+        "extract",
+        "partition",
+        "gen_embeddings",
+        "save_records"
+      ],
+      "remaining_steps": [
+        "gen_embeddings",
+        "save_records"
+      ],
+      "completed_steps": [
+        "extract",
+        "partition"
+      ],
+      "tags": {},
+      "creation": "2025-06-06T19:03:13.8865366+00:00",
+      "last_update": "2025-06-06T19:03:18.3611262+00:00",
+      "files": [
+        {
+          "id": "0f427e0016f34537ab04b3168a537553",
+          "name": "advanced-spec.pdf",
+          "size": 613036,
+          "mime_type": "application/pdf",
+          "artifact_type": "Undefined",
+          "partition_number": 0,
+          "section_number": 0,
+          "tags": {},
+          "processed_by": [
+            "extract"
+          ],
+          "generated_files": {
+            "advanced-spec.pdf.extract.txt": {
+              "id": "7055d9ba8ab4474dbd1f774880d6c60e",
+              "name": "advanced-spec.pdf.extract.txt",
+              "size": 73265,
+              "mime_type": "text/plain",
+              "artifact_type": "ExtractedText",
+              "partition_number": 0,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "",
+              "processed_by": [
+                "extract",
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.extract.json": {
+              "id": "95312af6c20d4fe0ad10b4875d7fb6ac",
+              "name": "advanced-spec.pdf.extract.json",
+              "size": 73265,
+              "mime_type": "text/plain",
+              "artifact_type": "ExtractedContent",
+              "partition_number": 0,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "",
+              "processed_by": [
+                "extract"
+              ]
+            },
+            "advanced-spec.pdf.partition.0.txt": {
+              "id": "42bfdb6cca93465b838360986870dc8d",
+              "name": "advanced-spec.pdf.partition.0.txt",
+              "size": 3743,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 0,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "cdf8aa48a1f392e0d53ca8654cab94f5ae7f58c7f4e0f450f85f5ef254f1296e",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.1.txt": {
+              "id": "e60ae7ffed2b4f0f9c55013f491c759f",
+              "name": "advanced-spec.pdf.partition.1.txt",
+              "size": 4868,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 1,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "2f9aa7a26f2047092487bd4b17576adb1492afb50f8869e664946df701e367d0",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.2.txt": {
+              "id": "5e8a46e19ab04173888491563b286912",
+              "name": "advanced-spec.pdf.partition.2.txt",
+              "size": 6074,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 2,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "601ae7da09f6f3922849fda03f72369a735f133f13f426eafc1c24fdbc0e952c",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.3.txt": {
+              "id": "7c67574127ad42f2aa72c72d86733660",
+              "name": "advanced-spec.pdf.partition.3.txt",
+              "size": 3803,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 3,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "addc5cef6f26c6d91ea2a09271bd99b6e66eb96f4a64bbd7f225f95a3fc9ffa7",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.4.txt": {
+              "id": "5512c6b9f93e42469e03601d167052f9",
+              "name": "advanced-spec.pdf.partition.4.txt",
+              "size": 3677,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 4,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "755e17b5e91a2268242f218fb9f71517422557337dccfe1f61d35ce5f469b7d9",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.5.txt": {
+              "id": "af8ca89e553d4222b18a19cb14231dfe",
+              "name": "advanced-spec.pdf.partition.5.txt",
+              "size": 4871,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 5,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "28724c47026bad7e35c5621886c860ac22bbe2aa9be4da296263664227d5e451",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.6.txt": {
+              "id": "b048f58326fa4d6ba3cb7f93ec00dd10",
+              "name": "advanced-spec.pdf.partition.6.txt",
+              "size": 3964,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 6,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "f33a1f2fda81a9dd81ce657ce79d1694f70a0aab2c38a7761626132c7a80f100",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.7.txt": {
+              "id": "d58cef06eb6e4d17b2e352bfc2f6764a",
+              "name": "advanced-spec.pdf.partition.7.txt",
+              "size": 4768,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 7,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "a6292ccabdb5cb1f91fd9b02559611f3b9df60686191252508d3191d44cdd56d",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.8.txt": {
+              "id": "47682d0adc4043728f3dcb3dfe3ce29a",
+              "name": "advanced-spec.pdf.partition.8.txt",
+              "size": 4829,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 8,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "8758fd057ba98a08c5d944ff1f3edbdd48e1f4f5b06e379d284e8e96b1bdfded",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.9.txt": {
+              "id": "07ccd6aafa474d7185171290601a7e1a",
+              "name": "advanced-spec.pdf.partition.9.txt",
+              "size": 4891,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 9,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "eec22924f73816330a2c2a20919c2f05b3b48be8c3c1c2d33b386afd1979c24e",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.10.txt": {
+              "id": "fdc690ecf2754bc5aab63d171ed8439e",
+              "name": "advanced-spec.pdf.partition.10.txt",
+              "size": 3638,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 10,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "4d9ac6e3a5a5c205b2016eeca83f28b1081d5db7722fdbc763927ba64b5a8d8a",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.11.txt": {
+              "id": "3efd40a99bb7487883f0e4d53dd358b1",
+              "name": "advanced-spec.pdf.partition.11.txt",
+              "size": 4993,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 11,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "7ee326df2189d3ff4cd1907377526045ab3b9797a55e42977ea65c3d2b8ee57c",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.12.txt": {
+              "id": "5ad121b636ff42eb866b49b3339734ee",
+              "name": "advanced-spec.pdf.partition.12.txt",
+              "size": 3758,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 12,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "690ee04b463e1d8b4c0e086df5fa136bad15c936b911bc5843779106bae07db9",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.13.txt": {
+              "id": "9359c2813fa345a5a223cf4760a100bf",
+              "name": "advanced-spec.pdf.partition.13.txt",
+              "size": 3716,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 13,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "074de9f979ac28f1e548ebd558be64daa2d870f837eebc7a2924413af8eedeee",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.14.txt": {
+              "id": "a08a122d4afc49b4a092711682c62bdd",
+              "name": "advanced-spec.pdf.partition.14.txt",
+              "size": 4780,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 14,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "2dae09df5c0a164c84b459eb1acbd7ebf662f3674ef489bdecf6bb31b1599ae2",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.15.txt": {
+              "id": "1a1331517e284bd68f77f06ffa4f9f76",
+              "name": "advanced-spec.pdf.partition.15.txt",
+              "size": 5007,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 15,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "df76d61c0aa9623834d8d1d1db4f99187b79c1e82f185a9e788a6546cd7e328a",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.16.txt": {
+              "id": "37486f530b074f6eb9612bb2f2c8925c",
+              "name": "advanced-spec.pdf.partition.16.txt",
+              "size": 3729,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 16,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "ae3ee918a644b50360337ada1b7b43e94442146f724ce82d69d155d6e88952cc",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.17.txt": {
+              "id": "ebda042c759c49eab1d4a412ed88ca81",
+              "name": "advanced-spec.pdf.partition.17.txt",
+              "size": 4536,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 17,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "0f427e0016f34537ab04b3168a537553",
+              "source_partition_id": "",
+              "content_sha256": "9b83a7ec87ee4fbfc7c4ed90d5e7490a768fff6b0c6895dbe46dfea5474768de",
+              "processed_by": [
+                "partition"
+              ]
+            }
+          }
+        }
+      ],
+      "args": {},
+      "previous_executions_to_purge": []
+    },
+    {
+      "index": "default",
+      "document_id": "MSFT01",
+      "execution_id": "ce1b71f42f1743058e23bf4b265eeeee",
+      "steps": [
+        "extract",
+        "partition",
+        "gen_embeddings",
+        "save_records"
+      ],
+      "remaining_steps": [
+        "gen_embeddings",
+        "save_records"
+      ],
+      "completed_steps": [
+        "extract",
+        "partition"
+      ],
+      "tags": {},
+      "creation": "2025-06-06T19:04:24.6270053+00:00",
+      "last_update": "2025-06-06T19:04:26.035341+00:00",
+      "files": [
+        {
+          "id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+          "name": "advanced-spec.pdf",
+          "size": 613036,
+          "mime_type": "application/pdf",
+          "artifact_type": "Undefined",
+          "partition_number": 0,
+          "section_number": 0,
+          "tags": {},
+          "processed_by": [
+            "extract"
+          ],
+          "generated_files": {
+            "advanced-spec.pdf.extract.txt": {
+              "id": "1ccf3b56e55e4f26b48713dc0abac254",
+              "name": "advanced-spec.pdf.extract.txt",
+              "size": 73265,
+              "mime_type": "text/plain",
+              "artifact_type": "ExtractedText",
+              "partition_number": 0,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "",
+              "processed_by": [
+                "extract",
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.extract.json": {
+              "id": "351f32820cce49db9904bc7e38dbf08a",
+              "name": "advanced-spec.pdf.extract.json",
+              "size": 73265,
+              "mime_type": "text/plain",
+              "artifact_type": "ExtractedContent",
+              "partition_number": 0,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "",
+              "processed_by": [
+                "extract"
+              ]
+            },
+            "advanced-spec.pdf.partition.0.txt": {
+              "id": "204882182866409cac4fac67b52554ec",
+              "name": "advanced-spec.pdf.partition.0.txt",
+              "size": 3743,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 0,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "cdf8aa48a1f392e0d53ca8654cab94f5ae7f58c7f4e0f450f85f5ef254f1296e",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.1.txt": {
+              "id": "4aef953735fe4cd8aa59638d083e2201",
+              "name": "advanced-spec.pdf.partition.1.txt",
+              "size": 4868,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 1,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "2f9aa7a26f2047092487bd4b17576adb1492afb50f8869e664946df701e367d0",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.2.txt": {
+              "id": "8fe320e43c474faeb6405313ce4c6ed9",
+              "name": "advanced-spec.pdf.partition.2.txt",
+              "size": 6074,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 2,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "601ae7da09f6f3922849fda03f72369a735f133f13f426eafc1c24fdbc0e952c",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.3.txt": {
+              "id": "cf75a25e487a4a969884c407ed55a6c6",
+              "name": "advanced-spec.pdf.partition.3.txt",
+              "size": 3803,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 3,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "addc5cef6f26c6d91ea2a09271bd99b6e66eb96f4a64bbd7f225f95a3fc9ffa7",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.4.txt": {
+              "id": "62dbe12c0dc14bcdb617016ca6e65994",
+              "name": "advanced-spec.pdf.partition.4.txt",
+              "size": 3677,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 4,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "755e17b5e91a2268242f218fb9f71517422557337dccfe1f61d35ce5f469b7d9",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.5.txt": {
+              "id": "3957518417db499d963e6d5fffe32cab",
+              "name": "advanced-spec.pdf.partition.5.txt",
+              "size": 4871,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 5,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "28724c47026bad7e35c5621886c860ac22bbe2aa9be4da296263664227d5e451",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.6.txt": {
+              "id": "1e26082381f4474c875e7986fb70b715",
+              "name": "advanced-spec.pdf.partition.6.txt",
+              "size": 3964,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 6,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "f33a1f2fda81a9dd81ce657ce79d1694f70a0aab2c38a7761626132c7a80f100",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.7.txt": {
+              "id": "119e3bdeca204c6e885176689b1ad265",
+              "name": "advanced-spec.pdf.partition.7.txt",
+              "size": 4768,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 7,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "a6292ccabdb5cb1f91fd9b02559611f3b9df60686191252508d3191d44cdd56d",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.8.txt": {
+              "id": "0db9c77df5604ccca6b94bfe52f14091",
+              "name": "advanced-spec.pdf.partition.8.txt",
+              "size": 4829,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 8,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "8758fd057ba98a08c5d944ff1f3edbdd48e1f4f5b06e379d284e8e96b1bdfded",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.9.txt": {
+              "id": "832189b3f4a84822b168d1f46b527394",
+              "name": "advanced-spec.pdf.partition.9.txt",
+              "size": 4891,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 9,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "eec22924f73816330a2c2a20919c2f05b3b48be8c3c1c2d33b386afd1979c24e",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.10.txt": {
+              "id": "a78c0e486d954c2a9bb4cc845318946c",
+              "name": "advanced-spec.pdf.partition.10.txt",
+              "size": 3638,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 10,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "4d9ac6e3a5a5c205b2016eeca83f28b1081d5db7722fdbc763927ba64b5a8d8a",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.11.txt": {
+              "id": "a2eb5123a86d436f9141d1baf9cf883d",
+              "name": "advanced-spec.pdf.partition.11.txt",
+              "size": 4993,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 11,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "7ee326df2189d3ff4cd1907377526045ab3b9797a55e42977ea65c3d2b8ee57c",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.12.txt": {
+              "id": "7a8a989a866b4ae187cbfce363a5f573",
+              "name": "advanced-spec.pdf.partition.12.txt",
+              "size": 3758,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 12,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "690ee04b463e1d8b4c0e086df5fa136bad15c936b911bc5843779106bae07db9",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.13.txt": {
+              "id": "4b80ecb328d4444e9ca5fe6a807f493e",
+              "name": "advanced-spec.pdf.partition.13.txt",
+              "size": 3716,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 13,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "074de9f979ac28f1e548ebd558be64daa2d870f837eebc7a2924413af8eedeee",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.14.txt": {
+              "id": "013748fe67e44fdbb07605d25d0a7eb5",
+              "name": "advanced-spec.pdf.partition.14.txt",
+              "size": 4780,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 14,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "2dae09df5c0a164c84b459eb1acbd7ebf662f3674ef489bdecf6bb31b1599ae2",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.15.txt": {
+              "id": "bafa7e8953eb4f999a3891b4f1b97155",
+              "name": "advanced-spec.pdf.partition.15.txt",
+              "size": 5007,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 15,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "df76d61c0aa9623834d8d1d1db4f99187b79c1e82f185a9e788a6546cd7e328a",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.16.txt": {
+              "id": "ad6eae33c3254820873d1fa5c01be6f4",
+              "name": "advanced-spec.pdf.partition.16.txt",
+              "size": 3729,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 16,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "ae3ee918a644b50360337ada1b7b43e94442146f724ce82d69d155d6e88952cc",
+              "processed_by": [
+                "partition"
+              ]
+            },
+            "advanced-spec.pdf.partition.17.txt": {
+              "id": "8112dc713d3448ea8b35e393e23f210e",
+              "name": "advanced-spec.pdf.partition.17.txt",
+              "size": 4536,
+              "mime_type": "text/plain",
+              "artifact_type": "TextPartition",
+              "partition_number": 17,
+              "section_number": 0,
+              "tags": {},
+              "parent_id": "7aa606ce0b0944bf8fd48654fbcc2b5a",
+              "source_partition_id": "",
+              "content_sha256": "9b83a7ec87ee4fbfc7c4ed90d5e7490a768fff6b0c6895dbe46dfea5474768de",
+              "processed_by": [
+                "partition"
+              ]
+            }
+          }
+        }
+      ],
+      "args": {},
+      "previous_executions_to_purge": []
+    }
+  ]
+}

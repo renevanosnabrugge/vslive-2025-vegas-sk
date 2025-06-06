@@ -1,0 +1,51 @@
+the Gap Report, the partner schedules and completes the Gap Review
+Meeting with the auditor to provide evidence and address any Open
+Action Items. *
+Auditor (with
+partner)
+10 Issue Final Report: To the partner within five (5) business days. Notify
+Microsoft of audit Pass or No Pass result.
+Auditor
+11 Notify partner: About program status within two (2) business days. Microsoft
+*These steps will be skipped if the partner has no Open Action Items after the audit. 
+Audit Process: Details
+Microsoft uses an independent third-party audit company, Information Security Systems International,
+LLC (ISSI), to schedule and conduct Azure specialization audits. After the audit date has been confirmed,
+ISSI will provide an agenda for the partner. The duration of an audit is four (4) hours for Module B
+workloads and eight (8) hours for Module A+B audits combined, depending upon the scope of the audit. 
+During the audit, the partner must provide access to the appropriate personnel who can discuss and
+disclose evidence that demonstrates compliance with program requirements. We highly recommend that
+subject matter experts for each section attend as well as a person who is familiar with the entire audit. 
+On the day of the audit, the partner must be prepared to provide the auditor with access to live
+demonstrations, documents, and personnel, as necessary to demonstrate compliance with the
+requirements. During the audit, the auditor will seek to verify that the partner’s evidence has addressed
+all required audit checklist items satisfactorily.
+A note on audit checklist effective dates: Partners are audited against the checklist items that are active on
+the date of their remote audit, not the date they apply. Audits are updated twice annually. The
+partner application or renewal date has no bearing on the version of the checklist that is used for the
+audit.10 
+The audit can produce either of two (2) outcomes:
+1. The partner passes the audit.
+• The auditor will present a brief synopsis of the audit. This will include identifying
+observed strengths and opportunities for improvement.
+• The auditor will provide a Final Report to the partner.
+• The auditor will notify Microsoft. 
+2. The partner does not satisfy all checklist items during the audit.
+• The auditor will present a brief synopsis of the audit at the end of the day, including
+observed strengths and Open Action Items, as outlined in the Gap Report, within
+two
+(2) business days.
+• The partner will acknowledge receipt of the Gap Report within two (2) business days.
+• The partner will move into the Gap Review phase and schedule their Gap Review Meeting
+within fifteen (15) calendar days. 
+The Gap Review 
+If the partner does not, to the auditor’s satisfaction, provide evidence that meets the required scores
+across all audit categories during the audit, the partner will move into a Gap Review. A Gap Review is
+part of the audit and completes the process.
+Within two (2) business days after the audit, the partner will receive a Gap Report, which details any
+Open Action Items and the outstanding required evidence. It is suggested to begin remediation of any
+open action items as soon as possible following the audit.
+The partner then has two (2) business days to acknowledge receipt of the Gap Report and schedule a
+Gap Review Meeting. The Gap Review Meeting is conducted with the auditor over the partner’s virtual conference platform of choice. The meeting must take place within fifteen (15) calendar days of when the
+Gap Report was sent, and it may last no longer than one (1) hour. During the Gap Review Meeting the
+partner must present evidence that addresses any and all Open Action Items.

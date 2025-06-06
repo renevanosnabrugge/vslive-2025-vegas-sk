@@ -1,0 +1,75 @@
+• Azure Migrate Server migration VMware and Hyper-V (use of Azure Site Recovery is also
+accepted)
+• Azure Database Migration Service
+• Storage Migration Service 
+B. Show experience with third-party tools that integrate with Azure Migrate by demonstrating a
+customer project where assessment data is available from Azure Migrate or available to them
+offline and they perform the migration by using third-party tooling.
+C. Show experience with all other third-party tools by referencing the tools used in a project plan
+for successfully migrating a customer to Azure, or by providing a spreadsheet with output from
+and snapshots of results in an output file from the tools that they used.
+Tools may include but are not limited to:
+• CloudSphere
+• Carbonite
+• PlateSpin
+• CloudEndure
+• River Meadow
+• Cloudamize
+• Zerto
+• StratoZone
+3.4 Automated Deployment and Provisioning Tools
+The partner must demonstrate specific products, tools, or scripts that they used for automated
+provisioning and deprovisioning of infrastructure and database migrations, including tools for
+continuous integration and continuous delivery (CI/CD). 
+Required Evidence:
+Include Demonstrations of Products, Tools, or Scripts used for:
+• Automated deployment, including creation of workload deployment templates.
+• Cloud service provisioning and deprovisioning, including viewing of service template,
+packages, or runbooks that were used in the deployment of customers’ Azure
+environments.
+• Automation of routine operations, or automated scale-out. 
+The partner must provide evidence of tools, products, or scripts for either a completed
+Windows Server or SQL Server migration project for two (2) unique customer projects
+completed within the last twelve (12) months.34 
+4.0 Review and Release for Operations
+The partner has robust methodologies for transitioning the workload.
+Requirement
+4.1 Service Validation and Testing
+The partner must validate the deployment, including:
+• Their documented process and approach to testing and evaluating the performance
+of all applications against customers’ expectations and Azure best practices.
+• Their documented process and approach to evaluating and improving architectural best
+practices to remediate issues with migrated platforms or workloads that do not meet
+performance or cost expectations. 
+Required Evidence: The partner must provide evidence of both of the following service
+validation and testing scenarios including validation and performance evaluation across a
+minimum of two (2) unique customer projects completed within the past twelve (12) months.
+The documentation must indicate that the implemented service validation solution meets
+customer expectations, and it must include a sign-off from each customer.
+1. Migration of Windows Server-based applications to Azure
+2. Migration of Microsoft SQL databases to Azure (including Arc-enabled SQL MI) *
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud. 
+Evidence can be the same as the projects presented in earlier controls as long as they
+demonstrate the required control definition.35 
+4.2 Post-deploymentDocumentation
+The partner must provide post-deployment operational documentation to show that their
+customers are successfully using the new service on Azure. It must:
+• Demonstrate how the partner’s documents, decisions, architectural designs, and
+procedures were implemented.
+• Demonstrate standard operating procedures for the business-as-usual
+operations team that describe “how to” scenarios.
+Required Evidence:
+The partner must provide evidence for two (2) completed Windows Server and SQL Server
+migration demonstrating both scenarios below across two (2) unique customers completed within
+the past twelve (12) months.
+1. Migration of Windows Server-based applications to Azure
+2. Migration of Microsoft SQL databases to Azure (can include Arc-enabled SQL Managed
+Instance (MI) * 
+*Note: Azure includes Microsoft datacenters, Arc enabled Azure on-prem or Arc enabled multi-cloud.36 
+Azure Specializations Partner FAQ 
+Questions regarding the Azure Partner program specializations, the current checklists and pre-
+qualifications for partners can usually be answered by visiting Microsoft Azure Partner Specializations 
+Questions on the audit checklists and program can be sent to the Azure Partner Specializations help alias.
+<mailto:AzureAS@microsoft.com> 
+If you have questions that have not been answered, please go to Partner Center support to create a ticket
+with our Frontline team.

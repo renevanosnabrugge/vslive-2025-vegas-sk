@@ -1,0 +1,43 @@
+Azure specialization audit. Partners work directly with ISSI to schedule this remote session (via online web
+conference). For more information about this type of in-depth engagement, see Azure Specialization
+Consulting Offer https://issi-inc.com/az-advspeconsulting/
+*Please note that there is a cost associated with both ISSI’s Consulting and the Process and Controls Overview. These can be
+scheduled at any time with ISSI; however, Microsoft recommends the partner does not schedule these during the actual audit
+but instead if chosen, work these into the planning timeline before the audit is scheduled. 
+Audit checklists
+The Infra and Database Migration to Microsoft Azure Specialization checklist contains two (2) modules, Module A,
+Cloud Foundation and Module B: The Infra and Database Migration to Microsoft Azure Specialization workload. 
+Module A, Cloud Foundation is required for multiple Azure specializations. Module A evaluates the use of
+a consistent methodology and process for Azure adoption that is aligned with customers’ expected
+outcomes, spanning the entire cloud adoption lifecycle. Module A is part of the Module B specialization
+audit package, and as a requirement must be renewed by audit for all Azure specializations.
+To complete or renew Module A, the partner needs to pass all controls in Module A by providing the
+specified evidence or providing evidence of a recent (within two years) Module A+B Pass result. The
+relevant date for each partner is the Module B Anniversary Date (AD) shown in Partner Center. 
+To waiver out of Module A, the partner must provide evidence of a recent (within two years) Pass result for
+an applicable A+B audit or a Pass result for the AEMSP Control 3.A within the last year. 
+Module A waivers:
+All Azure Specializations: When applying to renew subsequent Azure specializations, a previous Module A
++B audit Pass result will satisfy the requirements for Module A if the result has been within two (2) years
+and is on the same Module A version. (Module A updates every two years in July). Partners who have
+passed an A+B Azure specialization audit within the last two years have satisfied the requirements for
+Module A in all Module A+B Azure specialization audits, unless otherwise noted. The relevant Module B
+Anniversary Date (AD) is shown in Partner Center.
+Special note: Partners who have passed a Module B Azure specialization audit before July 1, 2021, and
+specifically for the Analytics on Microsoft Azure specialization before Oct 1, 2021, have likely not passed the
+Module A audit and will need to do so to qualify for an Azure Module B specialization audit.13 
+AEMSP: Partners who have passed Azure Expert MSP V1.9 and later Module 3.0 (in Full and Progress audits)
+have satisfied the requirements for Module A in all Module A+B Azure specialization audits, unless
+otherwise noted. AEMSP Partners audit yearly to stay enrolled, and Module 3.A Cloud Adoption Framework
+is also a yearly control requirement. 
+Special note: Partners who sequentially waiver out of Module A in multiple Module A+B audits and then
+subsequently waiver out of AEMSP Module 3.A within a two-year timeline will likely be required to take a
+Module A audit at Module A+B renewal. 
+If there are questions regarding a potential waiver for Module A, reach out to the Azure Partner Specializations
+<azureAS@microsoft.com> 
+Module B, The Infra and Database Migration to Microsoft Azure Specialization workload module validates that the partner has adopted robust processes to ensure customer success across all phases of
+deploying Infra and Database Migration solutions, from the assessment phase to design, pilot,
+implementation, and post-implementation phases. Review the following audit checklist tables for more
+details about each control phase and to learn how the partner will be evaluated for an audit. The same
+customers may be used for Module A & B. The estimated length of both modules together is eight (8)
+hours.
